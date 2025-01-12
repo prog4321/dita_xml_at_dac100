@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Safety precautions header information.                
+    =========================================================================================-->
+
+<concept id="w_c_safety_precautions">    
+    
+    <title>Safety precautions</title>
+    
+    <conbody>
+        
+        <section outputclass="chapter_para_margins">
+            Although this product was designed to be used safely, failing to use it correctly may
+            result in an accident. To ensure safety, observe all warnings and cautions while using
+            the product.
+        </section>        
+        
+    </conbody>
+    
+</concept>

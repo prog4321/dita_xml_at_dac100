@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Information on usage of the product.                
+    =========================================================================================-->
+
+<concept id="w_c_notes_on_use">
+    
+    <title>Notes on use</title>
+    
+    <conbody>
+        
+        <section outputclass="chapter_para_margins">
+            
+            <ul>
+                <!-- Label each of list items with a unique ID so that the items
+                     can be more easily reused in a different order -->
+                <li id="list_item_1">Be sure to read the connected device's user manual before use.</li>
+                <li id="list_item_2">Purchase a cable suitable for the device to be connected.</li>
+                <li id="list_item_3">Fully insert the plug of the connecting cable.</li>
+                <li id="list_item_4">Stop music playback when plugging and unplugging cables.</li>
+                <li id="list_item_5">
+                    Before using the product for the first time, it is necessary to install the
+                    "dedicated driver software" on your PC (only for Windows). Please download from our
+                    Audio-Technic website. Before connecting the product to your PC, be sure to install the
+                    "dedicated driver software". If you connect the product to your PC before installing
+                    the driver, the product may not work properly.     
+                </li>
+            </ul>
+            
+        </section>
+        
+    </conbody>
+    
+</concept>

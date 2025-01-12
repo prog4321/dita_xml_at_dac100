@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Information on making connections to use the product.                
+    =========================================================================================-->
+
+<task id="_t_using_the_product_making_connections">
+    
+    <title conkeyref="w_t_using_the_product_making_connections/title"/>    
+    
+    <taskbody>
+        
+        <context conkeyref="w_t_using_the_product_making_connections/context"
+            outputclass="topic_para_margins"/>
+        
+        <steps>
+            
+            <step conkeyref="w_t_using_the_product_making_connections/step_start"
+                conrefend="default.dita#default/step_end">
+                <cmd></cmd>
+            </step>
+            
+            <step>
+                <cmd>Use the input signal switching dial to select the device from which you want input.</cmd>
+                <info>
+                    <ul>
+                        <li>The signal that is input is shown by the sampling frequency/DSD indicator lamp.</li>
+                    </ul>
+                </info>                
+            </step>
+            
+        </steps>
+        
+        <example>
+            
+            <image keyref="_i_using_the_product_making_connections"
+                width="600" align="center"/>
+            <p>
+                <lines outputclass="fn_class">*1 For USB connection, USB Type-C connection is given priority.</lines>
+                <lines outputclass="fn_class">*2 A conversion adapter may be required depending on your smartphone/tablet, etc.</lines>
+            </p>
+            
+        </example>
+        
+        
+    </taskbody>
+    
+</task>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic information on cleaning the product.                
+    =========================================================================================-->
+
+<concept id="w_c_cleaning">
+    
+    <title id="title">Cleaning</title>
+    
+    <conbody>
+        <section outputclass="chapter_para_margins">
+            
+            <ul>
+                <li>
+                    If the product becomes dirty or dusty, turn off the power button, unplug the AC adapter, and then
+                    wipe the product with a soft, dry cloth.
+                </li>
+                
+                <li>Do not use benzine or paint thinners.</li>
+                
+                <li>
+                    To store the product for an extended period, turn the power button off, unplug the power cord from
+                    the outlet, wrap the equipment in plastic and keep it away from moisture.
+                </li>               
+            </ul>
+            
+        </section>        
+        
+    </conbody>
+    
+</concept>

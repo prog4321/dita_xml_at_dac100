@@ -1,0 +1,373 @@
+/*  =========================================================================================
+ *  Writer:     YC Wong
+ *  Date:       Jan-Feb 2024
+ *  Rev No:     1.0.0
+ *  Notes:      CSS file created to control the A4-sized PDF format of the Audio-Technica 
+ *              AT-DAC100 sample user manual.
+ *  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  PAGE-LEVEL SETTINGS */
+/*  ========================================================================================= */
+/*  Set the page size and margins for the whole document. */
+@page {
+    size: A4;
+    margin: 1.5cm;  
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  FONT SETTINGS */
+/*  ========================================================================================= */
+/*  Define the default font family for the whole document. */
+* {
+    font-family: arial, helvetica, sans-serif;
+}
+
+/* Define the default font size for the body text. */
+body {    
+    font-size: 1.1em;
+}
+
+/* Define a smaller font size and line height for footnote-level text. */
+*[outputclass~="fn_class"], *[class~='topic/fn'] {
+
+    /* NB: Set the font-size here using pt instead of em, otherwise the footnote text will 
+     * appear slightly smaller than the footnote number that precedes it. */
+    font-size: 8.5pt;
+    
+    font-family: arial, helvetica, sans-serif;
+    line-height: 1.6;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+/* Set a smaller font size for the superscript. */
+sup {
+    /* Default value here is 'smaller' which will appear too big relative to the
+     * default size of the body font, so we set it to an em value here.  */
+    font-size: 0.5em; 
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  FRONT PAGE SETTINGS */
+/*  ========================================================================================= */
+/*  Set the image for the front page. */
+@page front-page {
+    background-image: url("images/_i_front_page.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+
+/* Set the position of the title. */
+*[class ~="front-page/front-page-title"] {
+    font-size: 3em;
+    font-weight: 400;
+    text-align: right;
+    margin-top: 25px;
+    padding-right: 45px;    
+}
+
+/*  Set the position of the subtitle. */
+*[class ~="bookmap/booktitlealt"] {
+    font-size: 0.43em;
+    font-weight: 700;
+    text-align: right;
+    margin-top: 53px;
+    padding-right: 0px;    
+}
+
+/* Add and position some additional text on the front page. */
+*[class ~= "front-page/front-page-title"]:after(1) {
+    content: "D/A Converter";
+    display: block;
+    /*  Define the font family here too, otherwise Oxygen will use its default font. */
+    font-family: arial, helvetica, sans-serif;
+    font-size: 0.43em;
+    font-weight: 500;
+    text-align: right;    
+    padding-right: 0px;
+    position: relative;
+    top: -32px;
+}
+
+/* Add and position more additional text on the front page. */
+*[class ~= "front-page/front-page-title"]:after(2) {
+    content: "SAMPLE FOR EVALUATION - DO NOT DISTRIBUTE";
+    /*  Define the font family here too, otherwise Oxygen will use its default font. */
+    font-family: arial, helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 700;
+    color: red;
+    text-align: center;
+    font-style: italic;
+    position: relative;
+    top: 226px;
+    border: 2px solid #747d84;
+    padding: 12px 16px 12px 12px;
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  PREFACE SETTINGS */
+/*  ========================================================================================= */
+/*  The following code is modified from information found on this Oxygen forum page:
+ *  https://www.oxygenxml.com/forum/common-problems/topic19961.html 
+ *  Quote - "However, there is a way to match the preface:
+ *  - set an outputclass="preface" attribute on your "preface" reference in the DITA Map, then,
+ *  in your customization CSS set a named-page for it, then apply your own header customization." */
+ 
+/*  The outputclass="preface" attribute was inserted into the <preface> tag in the main ditamap.
+ *  This allows us to define it here as a named-page (simply 'preface' in this case), and to
+ *  then use it for customisation in CSS. */
+ *[outputclass~="preface"]{
+    page: preface !important;    
+    page-break-before: always;
+}
+
+@page preface{
+    @bottom-center {
+    
+        /*  Get the page number of the single-page preface to show as "- i -" at the bottom. */
+        content: "- i -";
+        
+        font-family: arial, helvetica, sans-serif;
+        font-size: 0.7em;        
+        vertical-align: top;      
+        padding-top: 2px;
+    }    
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  LIST SETTINGS */
+/*  ========================================================================================= */
+ul, ol {
+    display: block;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+    margin-top: 1px;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+/* Set the unordered lists closer the left-hand side. */
+ul {
+    padding-left: 13px;
+}
+
+/* Set the ordered lists closer the left-hand side. */
+ol{
+    padding-left: 19px;
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  HEADER SETTINGS */
+/*  ========================================================================================= */
+/* Remove chapter headings at the top left of the page if the chapter spans more than 1 page. */
+@page :left {
+    @top-left {
+        content: none;
+    }
+}
+
+/* Remove chapter headings at the top right of the page if the chapter spans more than 1 page. */
+@page :right {
+    @top-right {
+        content: none;
+    }
+}
+
+/* Remove the 'Chapter NN.' wording from the chapter header. */
+*[class ~= "topic/topic"] > *[class ~= "topic/title"]:before {
+    display:none;
+}
+
+/*  Set the format of the chapter header. */
+*[class~='topic/topic'] > *[class~='topic/title'] {
+    display: block;
+    font-weight: 700;
+    border-color: #747d84;
+    border-style: solid;
+    border-width: 8px 0px 1px 0px; 
+    padding-left: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+}
+
+/* Set the format of the topic header that appears under the chapter header. */
+*[class~='topic/topic'] *[class~='topic/topic'] > *[class~='topic/title'] {
+    display: block;
+    color: white;
+    border-style: none;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #747d84;
+    margin-top: 15px;
+    letter-spacing: 1px; /* To have the letters slightly more spaced out. */
+    font-size: 1.4em;
+}
+
+/* Set the format of the section title that appears under the topic header. */
+*[class~='topic/topic'] *[class~='topic/section'] > *[class~='topic/title'] {
+    display: block;
+    font-size: 1.7em;
+    border-style: none none solid none;
+    border-width: 1px;
+    border-color: #747d84;
+    padding-left: 0;
+    padding-top: 0;
+    padding-bottom: 4px;
+    margin-top: 0px;
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  FOOTER SETTINGS */
+/*  ========================================================================================= */
+/*  Reset the page counter to when the first chapter starts; code is from this Oxygen tutorial:
+ *  https://www.oxygenxml.com/doc/versions/25.1/ug-pdf-css/topics/dcpp_numbering_intro.html#dcpp_how_to_reset_page_numbering_at_first_chapter_part__section_dfn_5st_dpb */
+*[class ~= "map/map"] > *[class ~= "toc/toc"] + *[class ~= "topic/topic"][is-chapter],
+*[class ~= "map/map"] > *[class ~= "topic/topic"][is-frontmatter] + *[class ~= "topic/topic"][is-chapter] {
+    counter-reset: page 1;
+}
+*[class ~= "map/map"] > *[class ~= "toc/toc"] + *[class ~= "topic/topic"][is-part],
+*[class ~= "map/map"] > *[class ~= "topic/topic"][is-frontmatter] + *[class ~= "topic/topic"][is-part] {
+    counter-reset: page 1 chapter;
+}
+
+/* Set the footer to show the page number and comment. */
+@page {
+    @bottom-center {
+        content: "Pg " counter(page) " - Sample PDF generated using Dita XML by YC Wong (FOR EVALUATION - DO NOT DISTRIBUTE)";
+        font-size: 0.7em;        
+        vertical-align: top;      
+        padding-top: 2px;        
+        white-space:nowrap;
+    }
+    
+    /* Define the fonts for the footer. */
+    font-family: arial, helvetica, sans-serif;
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  FINE-TUNE FORMAT SETTINGS */
+/*  ========================================================================================= */
+/*  Set the format of the <line> tags that have an outputclass="line_entry" attribute,
+ *  for better alignment. This is to replicate the vertical spacing between different
+ *  lines in the same paragraph. */
+*[outputclass~="line_entry"] {
+    margin: 0;
+    line-height: 1.73;
+}
+
+*[outputclass~="add_top_margin"] {
+    margin-top: 20px;
+}
+
+
+/* Reduce the size of the font slightly so that this table looks more balanced. */
+*[outputclass~="part_names_and_functions_table"]{
+    font-size: 0.9em; 
+    line-height: 1.63;
+    hyphens: manual;
+}
+
+/*  Align all entries to the left in the "part_names_and_functions_table" properties table
+ *  and give it a bit more padding than the default. */
+*[class~='topic/stentry'] {
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/*  ========================================================================================= */
+
+
+
+
+
+/*  ========================================================================================= */
+/*  BACK PAGE AND SPECIAL FOOTER SETTINGS */
+/*  ========================================================================================= */
+/*  The outputclass="back-page" attribute was inserted into the <appendix> tag in the main ditamap.
+ *  This allows us to define it here as a named-page ('back-page' in this case), and to
+ *  then use it for customisation in CSS. */
+*[outputclass~="back-page"] { 
+    page: back-page !important;
+    page-break-before: always;
+}
+
+@page back-page {  
+    @bottom-center {
+        /*  Suppress the page number from showing up on the last page. */
+        content: none;
+    }    
+  
+  /* Set the bottom margin smaller here, so that we can position the company information lower down. */
+  margin-bottom: 1.0cm;
+}
+
+
+/* Positioning the footers on the last page. */
+*[outputclass~="company_info_japan_pt1"] {
+    position: relative;
+    font-size: 0.9em !important;
+    line-height: 0.9 !important;;    
+    text-align: left;
+    top: 221px;
+    font-weight: 500;
+}
+*[outputclass~="company_info_japan_pt2_position"] {
+    position: relative;
+    top: 220px;
+}
+
+*[outputclass~="company_info_japan_pt2_font"] {
+    font-size: 0.75em !important;
+    line-height: 0.9 !important;
+}
+*[outputclass~="docu_ver"] {
+    position: relative;
+    font-size: 0.85em;
+    text-align: right;    
+    top: 286px;
+}
+/*  ========================================================================================= */

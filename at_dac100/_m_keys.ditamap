@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Map to contain product-specific key definitions.                
+    =========================================================================================-->
+
+<map>
+    
+    <title>Product-specific key definitions</title>
+    
+    <keydef keys="product_name">
+        <topicmeta>
+            <keywords>
+                <keyword>AT-DAC100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    
+    <!-- DITA FILEPATHS -->
+    <!-- IMPT: Update the filepaths here if the files need to be relocated
+         into a different folder -->
+    
+    
+    <!-- CONCEPT FILES -->
+    <keydef keys="_c_preface" 
+        href="_c_preface.dita"/>
+    
+    <keydef keys="_c_package_contents" 
+        href="_c_package_contents.dita"/>
+    
+    <keydef keys="_c_safety_precautions_impt_info" 
+        href="_c_safety_precautions_impt_info.dita"/>
+    
+    
+    <!-- TASK FILES -->
+    <keydef keys="_t_installing_product_horizontally"
+        href="_t_installing_product_horizontally.dita"/>
+    
+    <keydef keys="_t_installing_product_vertically"
+        href="_t_installing_product_vertically.dita"/>
+    
+    <keydef keys="_t_using_the_product_making_connections"
+        href="_t_using_the_product_making_connections.dita"/>
+    
+    
+    <!-- REFERENCE FILES -->
+    <keydef keys="_r_part_names_and_functions" 
+        href="_r_part_names_and_functions.dita"/>
+    
+    <keydef keys="_r_dimensions_when_feet_are_attached"
+        href="_r_dimensions_when_feet_are_attached.dita"/> 
+    
+    <keydef keys="_r_dimensions_when_stands_are_attached"
+        href="_r_dimensions_when_stands_are_attached.dita"/>
+    
+    <keydef keys="_r_specifications"
+        href="_r_specifications.dita"/>
+    
+    
+    <!-- URL OF ORIGINAL USER MANUAL -->
+    <keydef keys="original_manual_url"
+        href="https://www.audio-technica.com.hk/templates/index/file/AT-DAC100_UM_EN.pdf"
+        scope="external"
+        format="pdf"/>    
+    
+        
+    <!-- IMAGE FILEPATHS -->    
+    <keydef keys="_i_package_contents"
+        href="images/_i_package_contents.png" format="png"/>
+    
+    <keydef keys="_i_dimension_when_feet_are_attached"
+        href="images/_i_dimension_when_feet_are_attached.png" format="png"/>
+    
+    <keydef keys="_i_dimension_when_stands_are_attached"
+        href="images/_i_dimension_when_stands_are_attached.png" format="png"/>
+    
+    <keydef keys="_i_installing_product_horizontally"
+        href="images/_i_installing_product_horizontally.png" format="png"/>
+    
+    <keydef keys="_i_installing_product_vertically"
+        href="images/_i_installing_product_vertically.png" format="png"/>
+    
+    <keydef keys="_i_part_names_and_functions"
+        href="images/_i_part_names_and_functions.png" format="png"/>
+    
+    <keydef keys="_i_using_the_product_making_connections"
+        href="images/_i_using_the_product_making_connections.png" format="png"/>
+    
+    
+</map>

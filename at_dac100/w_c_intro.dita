@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Introduction page.
+    =========================================================================================-->
+
+<concept id="w_c_intro">
+    
+    <title id="title">Introduction</title>
+    
+    <conbody>
+        
+        <section id="para_1" outputclass="chapter_para_margins">
+            <lines outputclass="line_entry">Thank you for purchasing this <ph keyref="company_name"/> product.</lines>
+            <lines outputclass="line_entry">Before using this product, please read through the Quick Start Guide, as well as this user manual when necessary, to ensure that you use the product correctly.</lines> 
+        </section>
+        
+        <section id="para_2" outputclass="chapter_para_margins">
+            <lines outputclass="line_entry">This product can only be used in the country in which it was sold.</lines>
+            <lines outputclass="line_entry">Please confirm that the voltage and power cord plug of the product are suitable for the country in which you live.</lines>
+        </section>        
+        
+    </conbody>
+    
+</concept>

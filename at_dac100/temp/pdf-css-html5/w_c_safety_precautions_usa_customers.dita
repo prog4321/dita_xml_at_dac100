@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="w_c_safety_precautions_usa_customers" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="concept:1;11:52" specializations="@props/deliveryTarget">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="title:1;13:12">For customers in the USA</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="conbody:1;15:14">        
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:1;17:18">
+            <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="title:2;18:20">FCC Notice</title>
+        </section>
+        
+        <section id="warning_section" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:2;21:39">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:1;22:16"><note type="warning" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:1;22:37">
+                This device complies with Part 15 of the FCC Rules. Operation is subject to the
+                    following two conditions: (1) This device may not cause harmful interference, and
+                    (2) this device must not accept any interference received, including interference
+                    that may cause undesired operation.
+            </note></p>
+        </section>
+                
+        <section id="caution_section" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:3;30:39">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:2;31:16"><note type="caution" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:2;31:37">
+                You are cautioned that any changes or modifications not expressly approved in
+                this manual could void your authority to operate this equipment.
+                
+                <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:3;35:20"><note class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:3;35:26">
+                    This equipment has been tested and found to comply with the limits for a Class B digital
+                    device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable
+                    protection against harmful interference in a residential installation. This equipment generates, uses
+                    and can radiate radio frequency energy and, if not installed and used in accordance with the 
+                    instructions, may cause harmful interference to radio communications. However, there is no guarantee
+                    that interference will not occur in a particular installation. If this equipment does cause harmful
+                    interference to radio or television reception, which can be determined by turning equipment off and
+                    on, the user is encouraged to try to correct the interference by one of more of the following measures:
+                </note></p>
+                
+                <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="ul:1;46:21">
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:1;47:25">Reorient or relocate the receiving antenna.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:2;48:25">Increase the separation between the equipment and receiver.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:3;49:25">Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:4;50:25">Consult the dealer or experienced radio/TV technician for help.</li>
+                </ul>
+            </note></p>
+        </section>
+        
+        
+        <section id="contact_section" outputclass="company_info_usa" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:4;56:70">
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="lines:1;57:45"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="b:1;57:48">Contact:</b></lines>
+            <sectiondiv class="- topic/sectiondiv " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="sectiondiv:2;26:34">
+                <lines id="usa_line_1" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:5;27:65">Responsible Company: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="full_company_name_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:6;27:122">Audio-Technica U.S., Inc.</ph></lines>
+                <lines id="usa_line_2" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:6;28:65">Address: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="company_address_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:7;28:108">1221 Commerce Drive, Stow, Ohio 44224, USA</ph></lines>
+                <lines id="usa_line_3" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:7;29:65">Tel: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="company_tel_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:8;29:100">330-686-2600</ph></lines>
+            </sectiondiv>            
+        </section>
+        
+    </conbody>
+    
+</concept>

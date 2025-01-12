@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="w_t_installing_product_vertically" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="task:1;11:46" specializations="@props/deliveryTarget">
+    
+    <title id="title" class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="title:1;13:23">Installing the product vertically</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="taskbody:1;15:15">
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="steps:1;17:16">
+            
+            <step id="attach_stands_to_side" class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="step:1;19:46">
+                
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="cmd:1;21:22">
+                    Attach the stands to the side of the main unit, and then install it.
+                </cmd>             
+                
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

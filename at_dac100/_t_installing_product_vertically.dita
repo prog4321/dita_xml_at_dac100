@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Information on installing the product vertically.                
+    =========================================================================================-->
+
+<task id="_t_installing_product_vertically">
+    
+    <title conkeyref="w_t_installing_product_vertically/title"/>
+    
+    <taskbody>
+        
+        <steps outputclass="topic_para_margins">
+            <step conkeyref="w_t_installing_product_vertically/attach_stands_to_side">
+                <cmd></cmd>                
+            </step>            
+        </steps>
+        
+        <example>
+            <image keyref="_i_installing_product_vertically"
+                height="300" align="center"/>
+        </example>
+        
+    </taskbody>
+    
+</task>

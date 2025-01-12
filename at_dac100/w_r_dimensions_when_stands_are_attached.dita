@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic header for dimensions for products that have stands attached.                
+    =========================================================================================-->
+
+<reference id="w_r_dimensions_when_stands_are_attached">
+    
+    <title id="title">When stands are attached</title>    
+    
+    <refbody/>
+    
+</reference>

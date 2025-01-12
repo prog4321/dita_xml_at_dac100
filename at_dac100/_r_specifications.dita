@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Specifications for the product                
+    =========================================================================================-->
+
+<reference id="_r_specifications">
+    
+    <title conkeyref="w_r_specifications/title"/>
+    
+    <refbody>
+        
+        <table frame="topbot" outputclass="specifications_table">
+            
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3.11*"/>
+                <tbody valign="top">
+                    <row rowsep="1">
+                        <entry conkeyref="w_r_specifications/system_requirements"/>
+                        <entry>
+                            <lines conkeyref="w_r_specifications/comp_usb_2_port"/>
+                            <lines conkeyref="w_r_specifications/cpu_intel_i3_cpu_2.2ghz_amd"/>
+                            <lines conkeyref="w_r_specifications/ram_32bit_2gb_64bit_4gb"/>
+                        </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry conkeyref="w_r_specifications/supported_os"/>
+                        <entry>
+                            <lines conkeyref="w_r_specifications/win8.1_win10_macx"/>
+                            <lines conkeyref="w_r_specifications/chk_web_latest_info"/>
+                        </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry conkeyref="w_r_specifications/power_supply"/>
+                        <entry conkeyref="w_r_specifications/100_240vac_50_60hz_15vdc_2.4a"/>
+                    </row>
+                    <row rowsep="1">
+                        <entry conkeyref="w_r_specifications/input_terminals"/>
+                        <entry>
+                            <lines conkeyref="w_r_specifications/usb_b_44.1_768khz_16_32bit_64_512dsd"/>
+                            <lines conkeyref="w_r_specifications/usb_c_44.1_768khz_16_32bit_64_512dsd"/>
+                            <lines conkeyref="w_r_specifications/coax_32_192khz_16_24bit"/>
+                            <lines conkeyref="w_r_specifications/opt_32_192khz_16_24bit"/>
+                        </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Output terminals</entry>
+                        <entry> Analog output (pin jack) × 2 </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Frequency response</entry>
+                        <entry> 5 Hz to 90 kHz (0, -3 dB) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Total harmonic distortion</entry>
+                        <entry> 0.005% or less (20 Hz to 20 kHz) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Signal-to-noise ratio</entry>
+                        <entry> 105 dB (A-weighted, 1 Vrms output) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Separation between channels</entry>
+                        <entry> 105 dB (20 Hz to 20 kHz) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Power consumption</entry>
+                        <entry> Maximum 3 W </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Dimensions</entry>
+                        <entry> 210 mm (8.27") × 135 mm (5.31") × 44 mm (1.73") (W × D × H)
+                            (excluding protrusions) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Weight</entry>
+                        <entry> About 1.0 kg (35.3 oz) </entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry>Included accessories</entry>
+                        <entry> AC adapter (approx. 1.5 m (4.9')), Power cord, Foot × 6, Stand × 2
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+            
+        </table>
+        
+        <section></section>
+        
+        <section id="notice">            
+            
+            <p conkeyref="w_topic_modification_without_notice/disclaimer"
+                outputclass="line_entry" />
+            
+            <ul>
+                <li>                    
+                    <p conkeyref="w_topic_usb_trademark_info/usb_c_trademark"
+                        outputclass="line_entry" />
+                </li>
+            </ul>
+            
+        </section>        
+               
+        <section>
+            
+            <sectiondiv outputclass="docu_ver">
+                <ph keyref="docu_ver"/>
+            </sectiondiv>
+            
+            <sectiondiv>
+                <lines conkeyref="w_topic_company_info/japan_line_1"
+                    outputclass="company_info_japan_pt1"/>
+            </sectiondiv>
+            
+            <sectiondiv outputclass="company_info_japan_pt2_position">
+                
+                <lines conkeyref="w_topic_company_info/japan_line_2"
+                    outputclass="company_info_japan_pt2_font"/>
+                
+                <lines conkeyref="w_topic_company_info/japan_line_3"
+                    outputclass="company_info_japan_pt2_font"/>
+                
+                <lines conkeyref="w_topic_company_info/japan_line_4"
+                    outputclass="company_info_japan_pt2_font"/>
+                
+            </sectiondiv>
+            
+        </section> 
+        
+    </refbody>
+    
+</reference>

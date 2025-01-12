@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic part names and functions that could be common across
+                similar products from the company.
+    =========================================================================================-->
+
+<reference id="w_r_part_names_and_functions">
+    
+    <title>Generic part names and functions</title>
+    
+    <refbody>
+        
+        <!-- Use a property table to store the information -->
+        <properties relcolwidth="1.0* 3.99* 11.92*">
+            
+            <prophead id="table_header">
+                <proptypehd>No.</proptypehd>
+                <propvaluehd>Name</propvaluehd>
+                <propdeschd>Description</propdeschd>
+            </prophead>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="power_lamp_white_value">Power indicator lamp</propvalue>
+                <propdesc id="power_lamp_white_desc">Lights white when the product's power button is turned on.</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="power_button_push_type_value">Power button</propvalue>
+                <propdesc id="power_button_push_type_desc">
+                    <lines outputclass="line_entry">Push-type switch to turn power on/off.</lines>
+                    <lines outputclass="line_entry">Pressing it turns the power on, and pressing it again turns the power off.</lines>
+                </propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="sampling_freq_dsd_lamp_value">Sampling frequency/DSD indicator lamp</propvalue>
+                <propdesc id="sampling_freq_dsd_lamp_desc">Shows the type of DSD or the sampling
+                    frequency of the input signal while playing audio.</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="input_switch_usb_coax_opt_value">Input signal switching dial</propvalue>
+                <propdesc id="input_switch_usb_coax_opt_desc">
+                    <lines outputclass="line_entry">Switches the input signal (USB terminal input, coaxial digital input (COAXIAL), and optical digital input (OPTICAL)).</lines>
+                    <lines outputclass="line_entry">Input from the USB terminal supports both USB Type-B and USB Type-C<sup>TM</sup>, but when both are connected, the USB Type-C input is given priority.</lines>
+                </propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="line_output_value">LINE output terminals</propvalue>
+                <propdesc id="line_output_desc">
+                    <lines outputclass="line_entry">Output the input signal that is selected with the input signal switching dial.</lines>
+                    <lines outputclass="line_entry">Connect to the LINE input terminals of the connected device by using an RCA audio cable (sold separately).</lines>
+                </propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="optical_input_value">Optical digital input terminal</propvalue>
+                <propdesc id="optical_input_desc">Connects to the optical digital output terminal of the audio source device
+                    by using an optical digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="coaxial_input_value">Coaxial digital input terminal</propvalue>
+                <propdesc id="coaxial_input_desc">Connects to the coaxial digital output terminal of the audio source device
+                    by using a coaxial digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="usb_b_input_value">USB terminal (USB Type-B)</propvalue>
+                <propdesc id="usb_b_input_desc">Connects to the USB terminal of the audio source device by using a USB
+                    Type-B cable (sold separately).</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="usb_c_input_value">USB terminal (USB Type-C)</propvalue>
+                <propdesc id="usb_c_input_desc">Connects to the USB terminal of the audio source device by using a USB
+                    Type-C cable (sold separately).</propdesc>
+            </property>
+            
+            <property>
+                <proptype></proptype>
+                <propvalue id="power_input_value">Power input jack</propvalue>
+                <propdesc id="power_input_desc">Connects to the AC adapter provided.</propdesc>
+            </property>
+            
+        </properties>
+        
+    </refbody>
+    
+</reference>

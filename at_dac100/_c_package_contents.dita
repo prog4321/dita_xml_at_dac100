@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      The package contents page for the product.
+    =========================================================================================-->
+
+<concept id="_c_package_contents">
+    
+    <title conkeyref="w_c_package_contents/title"/>
+    
+    <conbody>
+        
+        <section conkeyref="w_c_package_contents/para_1"
+            outputclass="chapter_para_margins"/>
+        
+        <section>
+            <image keyref="_i_package_contents"  width="600" align="center"/>
+        </section>        
+        
+        <section conkeyref="w_c_package_contents/para_2"
+            outputclass="chapter_para_margins"/>
+        
+    </conbody>
+    
+</concept>

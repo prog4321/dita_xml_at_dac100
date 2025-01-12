@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong (dca4321@yahoo.com)
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      1.  This bookmap is part of a DITA XML project created to publish a
+                    SAMPLE user manual in PDF format for:
+                    
+                    Company:    Audio Technica
+                    Product:    AT-DAC100
+                    
+                    IMPT: This project is meant to demonstrate my technical writing skills
+                    in DITA XML and CSS. While the content of the sample user manual PDF
+                    is replicated from the original user manual (a copy of which can be
+                    found in the 'original_manual' folder of this project), the underlying
+                    structure/design in DITA XML and the accompanying CSS file
+                    ('a4_pdf_custom.css') is my original work.
+                    
+                    Do not use this sample user manual for the operation of the AT-DAC100.
+                    It is meant only for evaluation purposes.
+                
+                2.  NB: To ensure the PDF output is generated with the intended look and
+                    feel, use the following steps to select the correct custom publishing
+                    template to apply to this bookmap:
+                    
+                    a.  Click on 'Configure Transformation Scenarios' in Oxygen Author.
+                    b.  Click on 'New', then select 'DITA-OT transformation'.
+                    c.  For the 'DITA Transformation Type', select 
+                        'PDF (CSS Formatter - HTML5)'.
+                    d.  Click 'Choose Custom Publishing Template', then navigate to the
+                        'audio_technica_at_dac100_a4_pdf.zip' file inside the
+                        'template' folder of this project.                        
+                        Change the name of the scenario accordingly.                        
+                    e.  Click 'OK' and then click 'Apply associated'.
+                    
+                3.  The CSS code that controls the A4-sized PDF look and feel for this
+                    product can be found in the 'a4_pdf_custom.css' file inside the 
+                    'template' folder.
+                    
+                    The 'outputclass' attribute is used to control formatting in a number
+                    of places in various dita files used in this project — please refer to
+                    the 'a4_pdf_custom.css' file for information on the purpose of the
+                    particular 'outputclass' attribute/value.                
+                    
+                4.  The file-naming convention used for this project is as follows:                
+                    - 'w_' prefix:  Warehouse-level files that would apply to similar 
+                                    products from the same company.
+                    - '_' prefix:   Files specific to the above-mentioned product.
+                    
+                    The letter/word that appears immediately after the prefix indicates
+                    the type of file.
+                    - 'c':      DITA concept files
+                    - 't':      DITA task files
+                    - 'r':      DITA reference files
+                    - 'topic':  DITA topic files (containing basic information)
+                    - 'b':      DITA Bookmaps
+                    - 'm':      DITA Maps
+                    - 'i':      Image files
+                    
+                5.  Refer to w_m_keys.ditamap for warehouse-level key definitions, and
+                    _m_keys.ditamap for key definitions specific to this product.
+                    The remaining key definitions, related to publishing information,
+                    can be found inside this bookmap.
+    
+    Writer:     (Name)
+    Date:       (Date)
+    Rev No:     (Next revision number)     
+    Notes:      (Put revision details here)
+    
+    =========================================================================================-->
+
+<bookmap>
+    
+    <booktitle>        
+        
+        <mainbooktitle><ph keyref="product_name"/></mainbooktitle>
+                
+        <!-- Subtitle -->
+        <booktitlealt>User Manual <i>(created using DITA XML)</i></booktitlealt>
+        
+    </booktitle>    
+    
+    <frontmatter>        
+        
+        <!-- Submap for warehouse-level files/images -->
+        <mapref href="w_m_keys.ditamap" processing-role="resource-only"/>
+        
+        <!-- Submap for files/images specific to this product -->
+        <mapref href="_m_keys.ditamap" processing-role="resource-only"/>     
+        
+        <!-- Revision number for the publishing of this document -->
+        <keydef keys="docu_ver">
+            <topicmeta>
+                <keywords>
+                    <keyword>rev.1.0.0_ycwong</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        
+        <!-- The year of the copyright that will appear as part of the company info appearing
+             in the footer of the last page of the document -->
+        <keydef keys="copyright_year">
+            <topicmeta>
+                <keywords>
+                    <keyword>2020</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        
+        <preface keyref="_c_preface"
+            outputclass="preface"/>
+        
+    </frontmatter>
+    
+    <chapter keyref="w_c_intro"/>
+    
+    <chapter keyref="_c_package_contents"/>    
+    
+    <chapter keyref="w_c_safety_precautions">
+        
+        <!-- An outputclass="page-break-after" attribute is added here to force a page-break
+             after this topic. If not, the information in the following topic will continue
+             on the same page where this topic ends, but will spill over into the next page,
+             resulting in a messy layout. -->
+        <topicref keyref="_c_safety_precautions_impt_info"
+            outputclass="page-break-after"/>
+        
+        <topicref keyref="w_c_safety_precautions_usa_customers"
+            outputclass="suppress_header_border"/>
+        
+        <topicref keyref="w_c_safety_precautions_canada_customers"
+            outputclass="suppress_header_border"/>
+        
+    </chapter>
+    
+    <chapter keyref="w_c_notes_on_use"/>
+    
+    <chapter keyref="_r_part_names_and_functions"/>
+    
+    <chapter keyref="w_t_installing_product">
+        <topicref keyref="_t_installing_product_horizontally"/>
+        <topicref keyref="_t_installing_product_vertically"/>
+    </chapter> 
+    
+    <chapter keyref="w_c_using_the_product">        
+        <topicref keyref="w_c_using_the_product_before_making_connections"/>
+        <topicref keyref="_t_using_the_product_making_connections"/>
+    </chapter>
+    
+    <chapter keyref="w_c_cleaning"/>    
+    
+    <chapter keyref="w_r_dimensions">
+        <topicref keyref="_r_dimensions_when_feet_are_attached"/>
+        <topicref keyref="_r_dimensions_when_stands_are_attached"/>        
+    </chapter>
+    
+    <appendix keyref="_r_specifications"
+        outputclass="back-page"/>    
+    
+</bookmap>

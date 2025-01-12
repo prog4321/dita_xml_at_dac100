@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Preface to highlight important information about the purpose of the 
+                sample user manual.
+    =========================================================================================-->
+
+<concept id="_c_preface">
+    
+    <title>Preface</title>
+    
+    <conbody>
+       
+        <p><note type="important"><b>PLEASE READ THIS PAGE FIRST</b></note></p>
+        
+        <section outputclass="chapter_para_margins">
+            <p>This is a <b>sample</b> user manual that I created using DITA XML, to demonstrate my
+                technical writing skills in DITA XML and CSS (via Oxygen XML Author).</p>
+            
+            <p>To provide for a realistic example, I have taken the liberty of replicating
+                        <b><i>content</i></b> from the original user manual of the <ph
+                    keyref="company_name"/>
+                <ph keyref="product_name"/>
+                <fn>
+                    <p outputclass="fn_class">A digital-to-analogue converter (DAC), which converts
+                        music stored in digital format (for e.g. MP3s) into an analogue format
+                        required for playback using amplifiers and speakers.</p>
+                </fn>. I selected this manual as it is well structured and fairly intricate. You can
+                find it here: <ph keyref="original_manual_url"/>.</p>
+            
+            <p>The <b><i>underlying structure</i></b> of this sample user manual, however, was
+                developed from the ground up using my understanding and application of DITA XML
+                principles. I have also used CSS to customise the PDF output to approximate the look
+                and feel of the original user manual in most sections.</p>
+            
+            <p>The DITA files used in this project can be found in a supplied ZIP file — files with
+                the 'w_' prefix are <i>warehouse</i> files that would apply to similar products from
+                    <ph keyref="company_name"/>; files with the '_' prefix are specific to the <ph
+                    keyref="product_name"/>. For more information, please refer to the
+                '_b_user_manual.ditamap' bookmap in the ZIP file.</p>            
+        </section>
+        
+        <section>
+            <p></p>
+            <p></p>            
+            <p></p>
+            <p></p>
+        </section>
+        
+        <section outputclass="chapter_para_margins">
+            <p>            
+                <lines outputclass="line_entry">YC Wong, Feb 2024</lines>
+                <lines outputclass="line_entry">Email: dca4321@yahoo.com</lines>
+            </p>
+        </section>
+        
+        
+        
+        
+        
+    </conbody>
+    
+</concept>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Important information, under 'Safety precautions', that will be more
+                specific to the product.
+    =========================================================================================-->
+
+<concept id="_c_safety_precautions_impt_info">
+    
+    <title conkeyref="w_c_safety_precautions_impt_info/title"/>
+    
+    <conbody>
+        
+        <section conkeyref="w_c_safety_precautions_impt_info/warning_section"/>
+        
+        <section id="caution_section">
+            <note type="caution">
+                <ul>
+                    <!-- A conkeyref to extract the list items from the original list. -->
+                    <li conkeyref="w_c_safety_precautions_impt_info/caution_list_start"
+                        conrefend="default.dita#default/caution_list_end">
+                    </li>
+                    
+                    <!-- This list item is added to the original list, as the product can be
+                         installed either horizontally or vertically. -->
+                    <li>In the case of horizontal installation, be sure to attach the included
+                        feet to the four corners of the bottom of the product (two of the six
+                        are spare feet). In case of vertical installation, be sure to attach the
+                        included stand.
+                    </li>                
+                </ul>                       
+            </note>
+        </section>
+        
+    </conbody>
+    
+</concept>

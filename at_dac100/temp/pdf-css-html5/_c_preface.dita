@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="_c_preface" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="concept:1;12:26" specializations="@props/deliveryTarget">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="title:1;14:12">Preface</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="conbody:1;16:14">
+       
+        <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:1;18:12"><note type="important" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="note:1;18:35"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:1;18:38">PLEASE READ THIS PAGE FIRST</b></note></p>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:1;20:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:2;21:16">This is a <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:2;21:29">sample</b> user manual that I created using Dita XML. It is meant as a
+                platform to demonstrate my technical writing skills in Dita XML and CSS, via Oxygen
+                Author 26.0.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:3;25:16">To provide for a realistic example, I have taken the liberty of replicating
+                <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:3;26:20"><i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:1;26:23">content</i></b> from the original user manual of the <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:1;27:44">Audio-Technica</ph>
+                <ph keyref="product_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:2;28:44">AT-DAC100</ph>
+                <fn class="- topic/fn " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="fn:1;29:21">
+                    <p outputclass="fn_class" class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:4;30:47">A digital-to-analogue converter (DAC), which converts
+                        music stored in digital format (for e.g. MP3s) into an analogue format required
+                        for playback using amplifiers and speakers.</p>
+                </fn>. I selected this manual as it is well constructed, fairly complex and detailed. You
+                can find it here: <ph keyref="original_manual_url" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:3;34:69" href="https://www.audio-technica.com.hk/templates/index/file/AT-DAC100_UM_EN.pdf" scope="external" format="pdf"><?ditaot usertext?>https://www.audio-technica.com.hk/templates/index/file/AT-DAC100_UM_EN.pdf</ph>.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:5;36:16">The <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:4;36:23"><i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:2;36:26">underlying structure</i></b> of this sample user manual, however, was developed
+                from the ground up using my understanding and application of Dita XML principles. I have
+                also used CSS to customise the PDF output to approximate the overall look and feel of
+                the original user manual in most sections.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:6;41:16">The dita files used in this project can be found in a supplied ZIP file — files with the
+                'w_' prefix are <i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:3;42:36">warehouse</i> files that would apply to similar products from <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:4;43:44">Audio-Technica</ph>; files with the '_' prefix are specific to the <ph keyref="product_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:5;44:48">AT-DAC100</ph>. For more information, please refer to the
+                '_b_user_manual.ditamap' bookmap in the ZIP file.</p>            
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:2;48:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:7;49:16"/>
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:8;50:16"/>            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:9;51:16"/>
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:10;52:16"/>
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:3;55:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:11;56:16">            
+                <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="lines:1;57:49">YC Wong, Feb 2024</lines>
+                <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="lines:2;58:49">Email: dca4321@yahoo.com</lines>
+            </p>
+        </section>
+        
+        
+        
+        
+        
+    </conbody>
+    
+</concept>

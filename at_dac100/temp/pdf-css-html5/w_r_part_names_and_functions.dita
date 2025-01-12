@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="w_r_part_names_and_functions" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="reference:1;12:46" specializations="@props/deliveryTarget">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="title:1;14:12">Generic part names and functions</title>
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="refbody:1;16:14">
+        
+        
+        <properties relcolwidth="1.0* 3.99* 11.92*" class="- topic/simpletable reference/properties " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="properties:1;19:53">
+            
+            <prophead id="table_header" class="- topic/sthead      reference/prophead " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="prophead:1;21:41">
+                <proptypehd class="- topic/stentry     reference/proptypehd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptypehd:1;22:29" dita-ot:x="1" dita-ot:y="1">No.</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvaluehd:1;23:30" dita-ot:x="2" dita-ot:y="1">Name</propvaluehd>
+                <propdeschd class="- topic/stentry     reference/propdeschd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdeschd:1;24:29" dita-ot:x="3" dita-ot:y="1">Description</propdeschd>
+            </prophead>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:1;27:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:1;28:27" dita-ot:x="1" dita-ot:y="2"/>
+                <propvalue id="power_lamp_white_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:1;29:56" dita-ot:x="2" dita-ot:y="2">Power indicator lamp</propvalue>
+                <propdesc id="power_lamp_white_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:1;30:54" dita-ot:x="3" dita-ot:y="2">Lights white when the product's power button is turned on.</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:2;33:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:2;34:27" dita-ot:x="1" dita-ot:y="3"/>
+                <propvalue id="power_button_push_type_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:2;35:62" dita-ot:x="2" dita-ot:y="3">Power button</propvalue>
+                <propdesc id="power_button_push_type_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:2;36:60" dita-ot:x="3" dita-ot:y="3">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:1;37:53">Push-type switch to turn power on/off.</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:2;38:53">Pressing it turns the power on, and pressing it again turns the power off.</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:3;42:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:3;43:27" dita-ot:x="1" dita-ot:y="4"/>
+                <propvalue id="sampling_freq_dsd_lamp_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:3;44:62" dita-ot:x="2" dita-ot:y="4">Sampling frequency/DSD indicator lamp</propvalue>
+                <propdesc id="sampling_freq_dsd_lamp_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:3;45:60" dita-ot:x="3" dita-ot:y="4">Shows the type of DSD or the sampling
+                    frequency of the input signal while playing audio.</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:4;49:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:4;50:27" dita-ot:x="1" dita-ot:y="5"/>
+                <propvalue id="input_switch_usb_coax_opt_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:4;51:65" dita-ot:x="2" dita-ot:y="5">Input signal switching dial</propvalue>
+                <propdesc id="input_switch_usb_coax_opt_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:4;52:63" dita-ot:x="3" dita-ot:y="5">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:3;53:53">Switches the input signal (USB terminal input, coaxial digital input (COAXIAL), and optical digital input (OPTICAL)).</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:4;54:53">Input from the USB terminal supports both USB Type-B and USB Type-C<sup class="+ topic/ph hi-d/sup " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="sup:1;54:125">TM</sup>, but when both are connected, the USB Type-C input is given priority.</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:5;58:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:5;59:27" dita-ot:x="1" dita-ot:y="6"/>
+                <propvalue id="line_output_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:5;60:51" dita-ot:x="2" dita-ot:y="6">LINE output terminals</propvalue>
+                <propdesc id="line_output_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:5;61:49" dita-ot:x="3" dita-ot:y="6">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:5;62:53">Output the input signal that is selected with the input signal switching dial.</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:6;63:53">Connect to the LINE input terminals of the connected device by using an RCA audio cable (sold separately).</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:6;67:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:6;68:27" dita-ot:x="1" dita-ot:y="7"/>
+                <propvalue id="optical_input_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:6;69:53" dita-ot:x="2" dita-ot:y="7">Optical digital input terminal</propvalue>
+                <propdesc id="optical_input_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:6;70:51" dita-ot:x="3" dita-ot:y="7">Connects to the optical digital output terminal of the audio source device
+                    by using an optical digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:7;74:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:7;75:27" dita-ot:x="1" dita-ot:y="8"/>
+                <propvalue id="coaxial_input_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:7;76:53" dita-ot:x="2" dita-ot:y="8">Coaxial digital input terminal</propvalue>
+                <propdesc id="coaxial_input_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:7;77:51" dita-ot:x="3" dita-ot:y="8">Connects to the coaxial digital output terminal of the audio source device
+                    by using a coaxial digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:8;81:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:8;82:27" dita-ot:x="1" dita-ot:y="9"/>
+                <propvalue id="usb_b_input_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:8;83:51" dita-ot:x="2" dita-ot:y="9">USB terminal (USB Type-B)</propvalue>
+                <propdesc id="usb_b_input_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:8;84:49" dita-ot:x="3" dita-ot:y="9">Connects to the USB terminal of the audio source device by using a USB
+                    Type-B cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:9;88:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:9;89:27" dita-ot:x="1" dita-ot:y="10"/>
+                <propvalue id="usb_c_input_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:9;90:51" dita-ot:x="2" dita-ot:y="10">USB terminal (USB Type-C)</propvalue>
+                <propdesc id="usb_c_input_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:9;91:49" dita-ot:x="3" dita-ot:y="10">Connects to the USB terminal of the audio source device by using a USB
+                    Type-C cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="property:10;95:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptype:10;96:27" dita-ot:x="1" dita-ot:y="11"/>
+                <propvalue id="power_input_value" class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:10;97:51" dita-ot:x="2" dita-ot:y="11">Power input jack</propvalue>
+                <propdesc id="power_input_desc" class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:10;98:49" dita-ot:x="3" dita-ot:y="11">Connects to the AC adapter provided.</propdesc>
+            </property>
+            
+        </properties>
+        
+    </refbody>
+    
+</reference>

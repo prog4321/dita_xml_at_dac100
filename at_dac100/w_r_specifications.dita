@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generics specifications that can be common across similar products                
+    =========================================================================================-->
+
+<reference id="w_r_specifications">
+    
+    <title id="title">Specifications</title>
+    
+    <refbody>
+        
+        <table frame="topbot">
+            
+            <tgroup cols="2">
+                
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="3.31*"/>
+                
+                <tbody valign="top" outputclass="p_class">
+                    
+                    <row rowsep="1">
+                        <entry id="system_requirements">System requirements</entry>
+                        <entry>
+                            <lines id="comp_usb_2_port" outputclass="line_entry">Computer equipped with a USB 2.0 compatible USB port</lines>
+                            <lines id="cpu_intel_i3_cpu_2.2ghz_amd" outputclass="line_entry">CPU: Intel Core i3 CPU 2.2 GHz or higher, or AMD CPU equivalent to Intel</lines>
+                            <lines id="ram_32bit_2gb_64bit_4gb" outputclass="line_entry">RAM: 32 bit OS, 2 GB or more, 64 bit OS 4 GB or more</lines>
+                        </entry>
+                    </row>
+                    
+                    <row rowsep="1">
+                        <entry id="supported_os">Supported OS</entry>
+                        <entry>
+                            <lines id="win8.1_win10_macx" outputclass="line_entry">Windows 8.1, Windows 10, and Mac OS X or later</lines> 
+                            <lines id="chk_web_latest_info" outputclass="line_entry">(Please check the product's web page for the latest information.)</lines>
+                        </entry>
+                    </row>
+                    
+                    <row rowsep="1">
+                        <entry id="power_supply">Power supply</entry>
+                        <entry id="100_240vac_50_60hz_15vdc_2.4a"> 100 - 240 VAC, 50/60 Hz, 15 VDC/2.4 A (AC adapter provided) </entry>
+                    </row>
+                    
+                    <row rowsep="1">
+                        <entry id="input_terminals">Input terminals</entry>
+                        <entry>
+                            <lines id="usb_b_44.1_768khz_16_32bit_64_512dsd" outputclass="line_entry">USB Type-B (44.1 kHz to 768 kHz, 16 to 32 bit DSD64, DSD128, DSD256, DSD512)</lines>
+                            <lines id="usb_c_44.1_768khz_16_32bit_64_512dsd" outputclass="line_entry">USB Type-C (44.1 kHz to 768 kHz, 16 to 32 bit DSD64, DSD128, DSD256, DSD512)</lines>
+                            <lines id="coax_32_192khz_16_24bit" outputclass="line_entry">Coaxial digital (32 kHz to 192 kHz, 16 to 24 bit)</lines>
+                            <lines id="opt_32_192khz_16_24bit" outputclass="line_entry">Optical digital (32 kHz to 192 kHz, 16 to 24 bit)</lines>
+                        </entry>
+                    </row>
+                    
+                </tbody>
+                
+            </tgroup>
+            
+        </table>
+        
+    </refbody>
+    
+</reference>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic information on installing the product vertically.                
+    =========================================================================================-->
+
+<task id="w_t_installing_product_vertically">
+    
+    <title id="title">Installing the product vertically</title>
+    
+    <taskbody>
+        
+        <steps>
+            
+            <step id="attach_stands_to_side">
+                
+                <cmd>
+                    Attach the stands to the side of the main unit, and then install it.
+                </cmd>             
+                
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

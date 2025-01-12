@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic information on installing the product horizontally.
+    =========================================================================================-->
+
+<task id="w_t_installing_product_horizontally">
+    
+    <title id="title">Installing the product horizontally</title>
+    
+    <taskbody>
+        
+        <steps>
+            
+            <step id="install_feet">
+                
+                <cmd>
+                    Remove the protective seals from the two-sided tape on the
+                    feet, stick them evenly to the bottom of the main unit, and then
+                    install it.
+                </cmd>
+                
+                <info>
+                    <ul>
+                        <li>
+                            If you need to remove a foot after sticking it on, slowly pull it off
+                            from the main unit.
+                        </li>
+                    </ul>
+                </info>
+                
+            </step>
+            
+        </steps>
+        
+    </taskbody>
+    
+</task>

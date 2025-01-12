@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Default package contents page. An image (showing the components that should
+                be included in the package) needs to be inserted between the header and
+                footer sections.
+    =========================================================================================-->
+
+<concept id="w_c_package_contents">
+    <title id="title">Package contents</title>
+    
+    <conbody> 
+        
+        <section id="para_1">
+            <lines outputclass="line_entry">Before using the product, confirm that all the items shown below are in the package.</lines>
+            <lines outputclass="line_entry">If some items are missing or damaged, contact your local <ph keyref="company_name"/> dealer.</lines>            
+        </section>
+        
+        <section id="para_2">
+            We recommend keeping all the packaging materials together in case you store, move or ship the product after purchase.
+        </section>
+        
+    </conbody>
+    
+</concept>

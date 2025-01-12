@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic header for dimensions for products that have feet attached.                
+    =========================================================================================-->
+
+<reference id="w_r_dimensions_when_feet_are_attached">
+    
+    <title id="title">When feet are attached</title>    
+    
+    <refbody/>
+    
+</reference>

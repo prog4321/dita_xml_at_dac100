@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Map to contain warehouse-level key definitions that
+                would apply to similar products from the same company.                
+    =========================================================================================-->
+
+<map>
+    
+    <title>Warehouse-level key definitions</title>
+    
+    <keydef keys="company_name">
+        <topicmeta>
+            <keywords>
+                <keyword>Audio-Technica</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="full_company_name_japan">
+        <topicmeta>
+            <keywords>
+                <keyword>Audio-Technica Corporation</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="company_address_japan">
+        <topicmeta>
+            <keywords>
+                <keyword>2-46-1 Nishi-naruse, Machida, Tokyo 194-8666, Japan</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="global_support_website">
+        <topicmeta>
+            <keywords>
+                <keyword>www.at-globalsupport.com</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="full_company_name_usa">
+        <topicmeta>
+            <keywords>
+                <keyword>Audio-Technica U.S., Inc.</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="company_address_usa">
+        <topicmeta>
+            <keywords>
+                <keyword>1221 Commerce Drive, Stow, Ohio 44224, USA</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef keys="company_tel_usa">
+        <topicmeta>
+            <keywords>
+                <keyword>330-686-2600</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>    
+    
+    
+    <!-- DITA FILEPATHS -->
+    <!-- IMPT: Update the filepaths here if the files need to be relocated
+         into a different folder -->
+    
+    
+    <!-- CONCEPT FILES -->
+    <keydef keys="w_c_intro" 
+        href="w_c_intro.dita"/>  
+    
+    <keydef keys="w_c_package_contents" 
+        href="w_c_package_contents.dita"/>
+    
+    <keydef keys="w_c_safety_precautions"
+        href="w_c_safety_precautions.dita"/>
+    
+    <keydef keys="w_c_safety_precautions_continued"
+        href="w_c_safety_precautions_continued.dita"/>
+    
+    <keydef keys="w_c_safety_precautions_impt_info"
+        href="w_c_safety_precautions_impt_info.dita"/>
+    
+    <keydef keys="w_c_safety_precautions_usa_customers"
+        href="w_c_safety_precautions_usa_customers.dita"/>
+    
+    <keydef keys="w_c_safety_precautions_canada_customers"
+        href="w_c_safety_precautions_canada_customers.dita"/>
+    
+    <keydef keys="w_c_notes_on_use"
+        href="w_c_notes_on_use.dita"/>
+
+    <keydef keys="w_c_using_the_product"
+        href="w_c_using_the_product.dita"/>
+    
+    <keydef keys="w_c_using_the_product_before_making_connections"
+        href="w_c_using_the_product_before_making_connections.dita"/>
+    
+    <keydef keys="w_c_cleaning"
+        href="w_c_cleaning.dita"/>
+    
+    
+    <!-- TASK FILES -->
+    <keydef keys="w_t_installing_product"
+        href="w_t_installing_product.dita"/>
+    
+    <keydef keys="w_t_installing_product_horizontally"
+        href="w_t_installing_product_horizontally.dita"/>
+    
+    <keydef keys="w_t_installing_product_vertically"
+        href="w_t_installing_product_vertically.dita"/>
+
+    <keydef keys="w_t_using_the_product_making_connections"
+        href="w_t_using_the_product_making_connections.dita"/>
+    
+    
+    <!-- REFERENCE FILES -->
+    <keydef keys="w_r_part_names_and_functions"
+        href="w_r_part_names_and_functions.dita"/>
+    
+    <keydef keys="w_r_dimensions"
+        href="w_r_dimensions.dita"/>
+    
+    <keydef keys="w_r_dimensions_when_feet_are_attached"
+        href="w_r_dimensions_when_feet_are_attached.dita"/>
+    
+    <keydef keys="w_r_dimensions_when_stands_are_attached"
+        href="w_r_dimensions_when_stands_are_attached.dita"/>
+    
+    <keydef keys="w_r_specifications"
+        href="w_r_specifications.dita"/>
+    
+    
+    <!-- TOPIC FILES -->    
+    <keydef keys="w_topic_company_info"
+        href="w_topic_company_info.dita"/>
+    
+    <keydef keys="w_topic_modification_without_notice"
+        href="w_topic_modification_without_notice.dita"/>
+    
+    <keydef keys="w_topic_usb_trademark_info"
+        href="w_topic_usb_trademark_info.dita"/>
+    
+    
+</map>

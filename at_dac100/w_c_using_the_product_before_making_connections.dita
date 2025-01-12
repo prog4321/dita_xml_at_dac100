@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Information on making connections before using the product.                
+    =========================================================================================-->
+
+<concept id="w_c_using_the_product_before_making_connections">
+    
+    <title>Before making connections</title>
+    
+    <conbody>
+        
+        <section outputclass="topic_para_margins">
+            <ul>
+                <!-- Reuse the list items from 'Notes on use' -->
+                <li conkeyref="w_c_notes_on_use/list_item_1"/>
+                <li>Be sure to turn off devices before connecting them.</li>
+                <li conkeyref="w_c_notes_on_use/list_item_2"
+                    conrefend="default.dita#default/list_item_5"/>
+            </ul>
+        </section>
+        
+    </conbody>
+    
+</concept>

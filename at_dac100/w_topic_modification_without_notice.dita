@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Disclaimer notice.                
+    =========================================================================================-->
+
+<topic id="w_topic_modification_without_notice">
+    
+    <title>Modification without notice disclaimer</title>
+    
+    <body>
+        
+        <section>
+            <p id="disclaimer">For product improvement, the product is subject to modification without notice.</p> 
+        </section>
+        
+    </body>
+    
+</topic>

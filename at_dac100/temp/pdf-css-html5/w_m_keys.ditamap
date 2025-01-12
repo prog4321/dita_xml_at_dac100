@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;12:6" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+    
+    <title class="- topic/title " xtrc="title:1;14:12" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">Warehouse-level key definitions</title>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="company_name" processing-role="resource-only" xtrc="keydef:1;16:33" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;17:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:1;18:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:1;19:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">Audio-Technica</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="full_company_name_japan" processing-role="resource-only" xtrc="keydef:2;24:44" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:2;25:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:2;26:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:2;27:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">Audio-Technica Corporation</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="company_address_japan" processing-role="resource-only" xtrc="keydef:3;32:42" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:3;33:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:3;34:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:3;35:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">2-46-1 Nishi-naruse, Machida, Tokyo 194-8666, Japan</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="global_support_website" processing-role="resource-only" xtrc="keydef:4;40:43" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:4;41:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:4;42:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:4;43:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">www.at-globalsupport.com</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="full_company_name_usa" processing-role="resource-only" xtrc="keydef:5;48:42" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:5;49:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:5;50:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:5;51:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">Audio-Technica U.S., Inc.</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="company_address_usa" processing-role="resource-only" xtrc="keydef:6;56:40" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:6;57:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:6;58:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:6;59:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">1221 Commerce Drive, Stow, Ohio 44224, USA</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " keys="company_tel_usa" processing-role="resource-only" xtrc="keydef:7;64:36" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+        <topicmeta class="- map/topicmeta " xtrc="topicmeta:7;65:20" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+            <keywords class="- topic/keywords " xtrc="keywords:7;66:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">
+                <keyword class="- topic/keyword " xtrc="keyword:7;67:26" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap">330-686-2600</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>    
+    
+    
+    
+    
+    
+    
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_intro.dita" keys="w_c_intro" processing-role="resource-only" xtrc="keydef:8;80:32" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>  
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_package_contents.dita" keys="w_c_package_contents" processing-role="resource-only" xtrc="keydef:9;83:43" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_safety_precautions.dita" keys="w_c_safety_precautions" processing-role="resource-only" xtrc="keydef:10;86:45" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_safety_precautions_impt_info.dita" keys="w_c_safety_precautions_impt_info" processing-role="resource-only" xtrc="keydef:11;89:55" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_safety_precautions_usa_customers.dita" keys="w_c_safety_precautions_usa_customers" processing-role="resource-only" xtrc="keydef:12;92:59" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_safety_precautions_canada_customers.dita" keys="w_c_safety_precautions_canada_customers" processing-role="resource-only" xtrc="keydef:13;95:62" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_notes_on_use.dita" keys="w_c_notes_on_use" processing-role="resource-only" xtrc="keydef:14;98:39" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_using_the_product.dita" keys="w_c_using_the_product" processing-role="resource-only" xtrc="keydef:15;101:44" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_using_the_product_before_making_connections.dita" keys="w_c_using_the_product_before_making_connections" processing-role="resource-only" xtrc="keydef:16;104:70" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_c_cleaning.dita" keys="w_c_cleaning" processing-role="resource-only" xtrc="keydef:17;107:35" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_t_installing_product.dita" keys="w_t_installing_product" processing-role="resource-only" xtrc="keydef:18;112:45" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_t_installing_product_horizontally.dita" keys="w_t_installing_product_horizontally" processing-role="resource-only" xtrc="keydef:19;115:58" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_t_installing_product_vertically.dita" keys="w_t_installing_product_vertically" processing-role="resource-only" xtrc="keydef:20;118:56" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_t_using_the_product_making_connections.dita" keys="w_t_using_the_product_making_connections" processing-role="resource-only" xtrc="keydef:21;121:63" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_r_part_names_and_functions.dita" keys="w_r_part_names_and_functions" processing-role="resource-only" xtrc="keydef:22;126:51" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_r_dimensions.dita" keys="w_r_dimensions" processing-role="resource-only" xtrc="keydef:23;129:37" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_r_dimensions_when_feet_are_attached.dita" keys="w_r_dimensions_when_feet_are_attached" processing-role="resource-only" xtrc="keydef:24;132:60" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_r_dimensions_when_stands_are_attached.dita" keys="w_r_dimensions_when_stands_are_attached" processing-role="resource-only" xtrc="keydef:25;135:62" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_r_specifications.dita" keys="w_r_specifications" processing-role="resource-only" xtrc="keydef:26;138:41" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    
+        
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_topic_company_info.dita" keys="w_topic_company_info" processing-role="resource-only" xtrc="keydef:27;143:43" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_topic_modification_without_notice.dita" keys="w_topic_modification_without_notice" processing-role="resource-only" xtrc="keydef:28;146:58" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    <keydef class="+ map/topicref mapgroup-d/keydef " href="w_topic_usb_trademark_info.dita" keys="w_topic_usb_trademark_info" processing-role="resource-only" xtrc="keydef:29;149:49" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_m_keys.ditamap"/>
+    
+    
+</map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\wong\tech_writing\sample_output\audio_technica\at_dac100\temp\pdf-css-html5?><?workdir-uri file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="w_c_using_the_product_before_making_connections" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="concept:1;11:63" specializations="@props/deliveryTarget">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="title:1;13:12">Before making connections</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="conbody:1;15:14">
+        
+        <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="p:1;17:12">
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="ul:1;18:17">
+                
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:1;22:38">Be sure to read the connected device's user manual before use.</li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="li:2;21:21">Be sure to turn off devices before connecting them.</li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:2;23:38">Purchase a cable suitable for the device to be connected.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:3;24:38">Fully insert the plug of the connecting cable.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:4;25:38">Stop music playback when plugging and unplugging cables.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:5;26:38">
+                    Before using the product for the first time, it is necessary to install the
+                    "dedicated driver software" on your PC (only for Windows). Please download from our
+                    Audio-Technic website. Before connecting the product to your PC, be sure to install the
+                    "dedicated driver software". If you connect the product to your PC before installing
+                    the driver, the product may not work properly.     
+                </li>
+            </ul>
+        </p>
+        
+    </conbody>
+    
+</concept>

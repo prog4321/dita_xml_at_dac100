@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Prequisite information on installing the product.                
+    =========================================================================================-->
+
+<task id="w_t_installing_product">
+    
+    <title>Installing the product</title>
+    
+    <taskbody>
+        
+        <prereq outputclass="chapter_para_margins">
+            
+            <ul>
+                <li>
+                    If a radio is placed near the product, the sound from the radio may be distorted.
+                    Whenever possible, keep radios away from the product.
+                </li>
+                <li>
+                    Keep the product at least 1 m (3.3') away from the inverter-type fluorescent lights,
+                    LED lamps, and wireless devices, such as mobile phones or Wi-Fi devices.
+                    Using them nearby could cause noise in the product.
+                </li>
+                <li>
+                    Install the AC adapter away from the main unit and the RCA audio cables. Using them
+                    nearby could cause noise in the product.
+                </li>
+            </ul>
+            
+        </prereq>
+        
+    </taskbody>
+    
+</task>

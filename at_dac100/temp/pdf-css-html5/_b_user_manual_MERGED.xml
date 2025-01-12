@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><bookmap xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map bookmap/bookmap " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map bookmap) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic xnal-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="bookmap:1;68:10" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    
+    <booktitle class="- topic/title bookmap/booktitle " xtrc="booktitle:1;70:16" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap">  <mainbooktitle class="- topic/ph bookmap/mainbooktitle " xtrc="mainbooktitle:1;72:24" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap"><ph class="- topic/ph " keyref="product_name" xtrc="ph:1;72:51" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap">AT-DAC100</ph></mainbooktitle>  <booktitlealt class="- topic/ph bookmap/booktitlealt " xtrc="booktitlealt:1;75:23" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap">User Manual <i class="+ topic/ph hi-d/i " xtrc="i:1;75:38" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap">(created using Dita XML)</i></booktitlealt>  </booktitle>    
+    
+    <frontmatter id="d305e23" class="- map/topicref bookmap/frontmatter " xtrc="frontmatter:1;79:18" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap"><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><preface class="- map/topicref bookmap/preface " keyref="_c_preface" outputclass="preface" xtrc="preface:1;107:36" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_1" id="unique_1" type="concept" ohref="_c_preface.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="_c_preface"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_c_preface"/><navtitle class="- topic/navtitle ">Preface</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Preface</linktext></topicmeta></preface></frontmatter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_c_intro" xtrc="chapter:1;111:34" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_2" id="unique_2" type="concept" ohref="w_c_intro.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="w_c_intro"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_intro"/><navtitle class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Introduction</linktext></topicmeta></chapter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="_c_package_contents" xtrc="chapter:2;113:44" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_3" id="unique_3" type="concept" ohref="_c_package_contents.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="_c_package_contents"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_c_package_contents"/><navtitle class="- topic/navtitle ">Package contents</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Package contents</linktext></topicmeta></chapter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_c_safety_precautions" xtrc="chapter:3;115:46" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_4" id="unique_4" type="concept" ohref="w_c_safety_precautions.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " data-topic-id="w_c_safety_precautions"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_safety_precautions"/><navtitle class="- topic/navtitle ">Safety precautions</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Safety precautions</linktext></topicmeta><topicref class="- map/topicref " keyref="_c_safety_precautions_impt_info" outputclass="page-break-after" xtrc="topicref:1;122:45" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_5" id="unique_5" type="concept" ohref="_c_safety_precautions_impt_info.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " data-topic-id="_c_safety_precautions_impt_info"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_c_safety_precautions_impt_info"/><navtitle class="- topic/navtitle ">Important information</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Important information</linktext></topicmeta></topicref><topicref class="- map/topicref " keyref="w_c_safety_precautions_usa_customers" xtrc="topicref:2;124:66" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_6" id="unique_6" type="concept" ohref="w_c_safety_precautions_usa_customers.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " data-topic-id="w_c_safety_precautions_usa_customers"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_safety_precautions_usa_customers"/><navtitle class="- topic/navtitle ">For customers in the USA</navtitle><?ditaot gentext?><linktext class="- map/linktext ">For customers in the USA</linktext></topicmeta></topicref><topicref class="- map/topicref " keyref="w_c_safety_precautions_canada_customers" xtrc="topicref:3;125:69" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_7" id="unique_7" type="concept" ohref="w_c_safety_precautions_canada_customers.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " data-topic-id="w_c_safety_precautions_canada_customers"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_safety_precautions_canada_customers"/><navtitle class="- topic/navtitle ">For customers in Canada</navtitle><?ditaot gentext?><linktext class="- map/linktext ">For customers in Canada</linktext></topicmeta></topicref></chapter>   
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_c_notes_on_use" xtrc="chapter:4;128:41" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_8" id="unique_8" type="concept" ohref="w_c_notes_on_use.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " data-topic-id="w_c_notes_on_use"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_notes_on_use"/><navtitle class="- topic/navtitle ">Notes on use</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Notes on use</linktext></topicmeta></chapter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="_r_part_names_and_functions" xtrc="chapter:5;130:52" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_9" id="unique_9" type="reference" ohref="_r_part_names_and_functions.dita" first_topic_id="#unique_9"><topicmeta class="- map/topicmeta " data-topic-id="_r_part_names_and_functions"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_r_part_names_and_functions"/><navtitle class="- topic/navtitle ">Part names and functions</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Part names and functions</linktext></topicmeta></chapter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_t_installing_product" xtrc="chapter:6;132:46" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_10" id="unique_10" type="task" ohref="w_t_installing_product.dita" first_topic_id="#unique_10"><topicmeta class="- map/topicmeta " data-topic-id="w_t_installing_product"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_t_installing_product"/><navtitle class="- topic/navtitle ">Installing the product</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Installing the product</linktext></topicmeta><topicref class="- map/topicref " keyref="_t_installing_product_horizontally" xtrc="topicref:4;133:64" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_11" id="unique_11" type="task" ohref="_t_installing_product_horizontally.dita" first_topic_id="#unique_11"><topicmeta class="- map/topicmeta " data-topic-id="_t_installing_product_horizontally"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_t_installing_product_horizontally"/><navtitle class="- topic/navtitle ">Installing the product horizontally</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Installing the product horizontally</linktext></topicmeta></topicref><topicref class="- map/topicref " keyref="_t_installing_product_vertically" xtrc="topicref:5;134:62" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_12" id="unique_12" type="task" ohref="_t_installing_product_vertically.dita" first_topic_id="#unique_12"><topicmeta class="- map/topicmeta " data-topic-id="_t_installing_product_vertically"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_t_installing_product_vertically"/><navtitle class="- topic/navtitle ">Installing the product vertically</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Installing the product vertically</linktext></topicmeta></topicref></chapter> 
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_c_using_the_product" xtrc="chapter:7;137:45" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_13" id="unique_13" type="concept" ohref="w_c_using_the_product.dita" first_topic_id="#unique_13"><topicmeta class="- map/topicmeta " data-topic-id="w_c_using_the_product"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_using_the_product"/><navtitle class="- topic/navtitle ">Using the product</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Using the product</linktext></topicmeta><topicref class="- map/topicref " keyref="w_c_using_the_product_before_making_connections" xtrc="topicref:6;138:77" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_14" id="unique_14" type="concept" ohref="w_c_using_the_product_before_making_connections.dita" first_topic_id="#unique_14"><topicmeta class="- map/topicmeta " data-topic-id="w_c_using_the_product_before_making_connections"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_using_the_product_before_making_connections"/><navtitle class="- topic/navtitle ">Before making connections</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Before making connections</linktext></topicmeta></topicref><topicref class="- map/topicref " keyref="_t_using_the_product_making_connections" xtrc="topicref:7;139:69" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_15" id="unique_15" type="task" ohref="_t_using_the_product_making_connections.dita" first_topic_id="#unique_15"><topicmeta class="- map/topicmeta " data-topic-id="_t_using_the_product_making_connections"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_t_using_the_product_making_connections"/><navtitle class="- topic/navtitle ">Making connections</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Making connections</linktext></topicmeta></topicref></chapter>
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_c_cleaning" xtrc="chapter:8;142:37" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_16" id="unique_16" type="concept" ohref="w_c_cleaning.dita" first_topic_id="#unique_16"><topicmeta class="- map/topicmeta " data-topic-id="w_c_cleaning"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_c_cleaning"/><navtitle class="- topic/navtitle ">Cleaning</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Cleaning</linktext></topicmeta></chapter>    
+    
+    <chapter class="- map/topicref bookmap/chapter " keyref="w_r_dimensions" xtrc="chapter:9;144:38" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_17" id="unique_17" type="reference" ohref="w_r_dimensions.dita" first_topic_id="#unique_17"><topicmeta class="- map/topicmeta " data-topic-id="w_r_dimensions"><resourceid class="- topic/resourceid " oxy-source="topic" appid="w_r_dimensions"/><navtitle class="- topic/navtitle ">Dimensions</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Dimensions</linktext></topicmeta><topicref class="- map/topicref " keyref="_r_dimensions_when_feet_are_attached" xtrc="topicref:8;145:66" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_18" id="unique_18" type="reference" ohref="_r_dimensions_when_feet_are_attached.dita" first_topic_id="#unique_18"><topicmeta class="- map/topicmeta " data-topic-id="_r_dimensions_when_feet_are_attached"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_r_dimensions_when_feet_are_attached"/><navtitle class="- topic/navtitle ">When feet are attached</navtitle><?ditaot gentext?><linktext class="- map/linktext ">When feet are attached</linktext></topicmeta></topicref><topicref class="- map/topicref " keyref="_r_dimensions_when_stands_are_attached" xtrc="topicref:9;146:68" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_19" id="unique_19" type="reference" ohref="_r_dimensions_when_stands_are_attached.dita" first_topic_id="#unique_19"><topicmeta class="- map/topicmeta " data-topic-id="_r_dimensions_when_stands_are_attached"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_r_dimensions_when_stands_are_attached"/><navtitle class="- topic/navtitle ">When stands are attached</navtitle><?ditaot gentext?><linktext class="- map/linktext ">When stands are attached</linktext></topicmeta></topicref></chapter>
+    
+    <appendix class="- map/topicref bookmap/appendix " keyref="_r_specifications" outputclass="back-page" xtrc="appendix:1;150:34" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_b_user_manual.ditamap" href="#unique_20" id="unique_20" type="reference" ohref="_r_specifications.dita" first_topic_id="#unique_20"><topicmeta class="- map/topicmeta " data-topic-id="_r_specifications"><resourceid class="- topic/resourceid " oxy-source="topic" appid="_r_specifications"/><navtitle class="- topic/navtitle ">Specifications</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Specifications</linktext></topicmeta></appendix>    
+    
+</opentopic:map><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="concept:1;12:26" specializations="@props/deliveryTarget" oid="_c_preface" id="unique_1">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="title:1;14:12">Preface</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="conbody:1;16:14">
+       
+        <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:1;18:12"><note type="important" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="note:1;18:35"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:1;18:38">PLEASE READ THIS PAGE FIRST</b></note></p>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:1;20:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:2;21:16">This is a <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:2;21:29">sample</b> user manual that I created using Dita XML. It is meant as a
+                platform to demonstrate my technical writing skills in Dita XML and CSS, via Oxygen
+                Author 26.0.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:3;25:16">To provide for a realistic example, I have taken the liberty of replicating
+                <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:3;26:20"><i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:1;26:23">content</i></b> from the original user manual of the <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:1;27:44">Audio-Technica</ph>
+                <ph keyref="product_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:2;28:44">AT-DAC100</ph>
+                <fn class="- topic/fn " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="fn:1;29:21">
+                    <p outputclass="fn_class" class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:4;30:47">A digital-to-analogue converter (DAC), which converts
+                        music stored in digital format (for e.g. MP3s) into an analogue format required
+                        for playback using amplifiers and speakers.</p>
+                </fn>. I selected this manual as it is well constructed, fairly complex and detailed. You
+                can find it here: <ph keyref="original_manual_url" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:3;34:69" href="https://www.audio-technica.com.hk/templates/index/file/AT-DAC100_UM_EN.pdf" scope="external" format="pdf"><?ditaot usertext?>https://www.audio-technica.com.hk/templates/index/file/AT-DAC100_UM_EN.pdf</ph>.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:5;36:16">The <b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="b:4;36:23"><i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:2;36:26">underlying structure</i></b> of this sample user manual, however, was developed
+                from the ground up using my understanding and application of Dita XML principles. I have
+                also used CSS to customise the PDF output to approximate the overall look and feel of
+                the original user manual in most sections.</p>
+            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:6;41:16">The dita files used in this project can be found in a supplied ZIP file — files with the
+                'w_' prefix are <i class="+ topic/ph hi-d/i " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="i:3;42:36">warehouse</i> files that would apply to similar products from <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:4;43:44">Audio-Technica</ph>; files with the '_' prefix are specific to the <ph keyref="product_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="ph:5;44:48">AT-DAC100</ph>. For more information, please refer to the
+                '_b_user_manual.ditamap' bookmap in the ZIP file.</p>            
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:2;48:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:7;49:16"/>
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:8;50:16"/>            
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:9;51:16"/>
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:10;52:16"/>
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="section:3;55:18">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="p:11;56:16">            
+                <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="lines:1;57:49">YC Wong, Feb 2024</lines>
+                <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_preface.dita" xtrc="lines:2;58:49">Email: dca4321@yahoo.com</lines>
+            </p>
+        </section>
+        
+        
+        
+        
+        
+    </conbody>
+    
+</concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="concept:1;11:25" specializations="@props/deliveryTarget" oid="w_c_intro" id="unique_2">
+    
+    <title id="unique_2_Connect_42_title" class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="title:1;13:23">Introduction</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="conbody:1;15:14">
+        
+        <section id="unique_2_Connect_42_para_1" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="section:1;17:30">
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="lines:1;18:45">Thank you for purchasing this <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="ph:1;18:102">Audio-Technica</ph> product.</lines>
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="lines:2;19:45">Before using this product, please read through the Quick Start Guide, as well as this user manual when necessary, to ensure that you use the product correctly.</lines>            
+        </section>
+        
+        <section id="unique_2_Connect_42_para_2" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="section:2;22:30">
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="lines:3;23:45">This product can only be used in the country in which it was sold.</lines>
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_intro.dita" xtrc="lines:4;24:45">Please confirm that the voltage and power cord plug of the product are suitable for the country in which you live.</lines>
+        </section>
+        
+    </conbody>
+    
+</concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_package_contents.dita" xtrc="concept:1;11:35" specializations="@props/deliveryTarget" oid="_c_package_contents" id="unique_3">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="title:1;14:23">Package contents</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_package_contents.dita" xtrc="conbody:1;15:14">
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="section:1;18:30">
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="lines:1;19:45">Before using the product, confirm that all the items shown below are in the package.</lines>
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="lines:2;20:45">If some items are missing or damaged, contact your local <ph keyref="company_name" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="ph:1;20:129">Audio-Technica</ph> dealer.</lines>            
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_package_contents.dita" xtrc="section:2;19:18">
+            
+            <image keyref="_i_package_contents" width="600" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_package_contents.dita" xtrc="image:1;22:78" href="images/_i_package_contents.png" format="png"/>
+        </section>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_package_contents.dita" xtrc="section:2;23:30">
+            We recommend keeping all the packaging materials together in case you store, move or ship the product after purchase.
+        </section>
+        
+    </conbody>
+    
+</concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions.dita" xtrc="concept:1;11:38" specializations="@props/deliveryTarget" oid="w_c_safety_precautions" id="unique_4">    
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions.dita" xtrc="title:1;13:12">Safety precautions</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions.dita" xtrc="conbody:1;15:14">
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions.dita" xtrc="section:1;17:18">
+            Although this product was designed to be used safely, failing to use it correctly may
+            result in an accident. To ensure safety, observe all warnings and cautions while using
+            the product.
+        </section>        
+        
+    </conbody>
+    
+<concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="concept:1;12:47" specializations="@props/deliveryTarget" oid="_c_safety_precautions_impt_info" id="unique_5">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="title:1;13:23">Important information</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="conbody:1;16:14">
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="section:1;17:39">
+            <note type="warning" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="note:1;18:34">            
+                <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="ul:1;19:21">
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:1;20:25">
+                        To prevent fire or shock hazard, do not expose this apparatus to rain
+                        or moisture.
+                    </li>
+                </ul>
+            </note>
+        </section>
+        
+        <section id="unique_5_Connect_42_caution_section" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="section:2;20:39">
+            <note type="caution" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="note:1;21:34">
+                <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="ul:1;22:21">
+                    
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:2;31:49">
+                        Do not expose this apparatus to drips or splashes.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:3;35:25">
+                        To avoid electric shock, do not open the cabinet.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:4;39:25">
+                        Refer servicing to qualified personnel only.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:5;43:25">
+                        Do not expose this apparatus to excessive heat such as that generated by
+                        sunshine, fire or other heat sources.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:6;48:25">
+                        Do not subject this apparatus to strong impact.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:7;52:25">
+                        This apparatus should be located close enough to the AC outlet so that
+                        you can easily grasp the AC adapter at any time.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:8;57:25">
+                        In case of emergency, disconnect the AC adapter quickly.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:9;61:25">
+                        Do not place any objects filled with liquids, such as vases, on this
+                        apparatus.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:10;66:25">
+                        To prevent fire, do not place any naked flame sources (such as lighted
+                        candles) on this apparatus.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:11;71:25">
+                        Do not install this apparatus in a confined space such as a bookcase or
+                        similar unit.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:12;76:25">
+                        Install this apparatus only in the place where ventilation is good.
+                    </li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_impt_info.dita" xtrc="li:13;80:47">
+                        In order to maintain proper ventilation, do not place any objects around
+                        the rear of the apparatus. This apparatus should be placed at least 10 cm
+                        (3.94") away from a rear wall. This apparatus should not be placed near to
+                        other electrical apparatuses. Keep the top and sides of this apparatus at
+                        least 10 cm (3.94") away from any surface if sitting on shelving, such as
+                        an audio apparatus rack. Failure to do so may cause this apparatus to
+                        overheat, which in turn may cause it or surrounding items to catch fire.
+                    </li>
+                    
+                    
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_c_safety_precautions_impt_info.dita" xtrc="li:2;30:25">In the case of horizontal installation, be sure to attach the included
+                        feet to the four corners of the bottom of the product (two of the six
+                        are spare feet). In case of vertical installation, be sure to attach the
+                        included stand.
+                    </li>                
+                </ul>                       
+            </note>
+        </section>
+        
+    </conbody>
+    
+</concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="concept:1;11:52" specializations="@props/deliveryTarget" oid="w_c_safety_precautions_usa_customers" id="unique_6">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="title:1;13:12">For customers in the USA</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="conbody:1;15:14">        
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:1;17:18">
+            <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="title:2;18:20">FCC Notice</title>
+        </section>
+        
+        <section id="unique_6_Connect_42_warning_section" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:2;21:39">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:1;22:16"><note type="warning" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:1;22:37">
+                This device complies with Part 15 of the FCC Rules. Operation is subject to the
+                    following two conditions: (1) This device may not cause harmful interference, and
+                    (2) this device must not accept any interference received, including interference
+                    that may cause undesired operation.
+            </note></p>
+        </section>
+                
+        <section id="unique_6_Connect_42_caution_section" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:3;30:39">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:2;31:16"><note type="caution" class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:2;31:37">
+                You are cautioned that any changes or modifications not expressly approved in
+                this manual could void your authority to operate this equipment.
+                
+                <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="p:3;35:20"><note class="- topic/note " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="note:3;35:26">
+                    This equipment has been tested and found to comply with the limits for a Class B digital
+                    device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable
+                    protection against harmful interference in a residential installation. This equipment generates, uses
+                    and can radiate radio frequency energy and, if not installed and used in accordance with the 
+                    instructions, may cause harmful interference to radio communications. However, there is no guarantee
+                    that interference will not occur in a particular installation. If this equipment does cause harmful
+                    interference to radio or television reception, which can be determined by turning equipment off and
+                    on, the user is encouraged to try to correct the interference by one of more of the following measures:
+                </note></p>
+                
+                <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="ul:1;46:21">
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:1;47:25">Reorient or relocate the receiving antenna.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:2;48:25">Increase the separation between the equipment and receiver.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:3;49:25">Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.</li>
+                    <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="li:4;50:25">Consult the dealer or experienced radio/TV technician for help.</li>
+                </ul>
+            </note></p>
+        </section>
+        
+        
+        <section id="unique_6_Connect_42_contact_section" outputclass="company_info_usa" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="section:4;56:70">
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="lines:1;57:45"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_usa_customers.dita" xtrc="b:1;57:48">Contact:</b></lines>
+            <sectiondiv class="- topic/sectiondiv " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="sectiondiv:2;26:34">
+                <lines id="unique_6_Connect_42_usa_line_1" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:5;27:65">Responsible Company: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="full_company_name_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:6;27:122">Audio-Technica U.S., Inc.</ph></lines>
+                <lines id="unique_6_Connect_42_usa_line_2" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:6;28:65">Address: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="company_address_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:7;28:108">1221 Commerce Drive, Stow, Ohio 44224, USA</ph></lines>
+                <lines id="unique_6_Connect_42_usa_line_3" outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:7;29:65">Tel: <ph xmlns:conref="http://dita-ot.sourceforge.net/ns/200704/conref" keyref="company_tel_usa" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:8;29:100">330-686-2600</ph></lines>
+            </sectiondiv>            
+        </section>
+        
+    </conbody>
+    
+</concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="concept:1;11:55" specializations="@props/deliveryTarget" oid="w_c_safety_precautions_canada_customers" id="unique_7">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="title:1;13:12">For customers in Canada</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="conbody:1;15:14">
+        
+        <section id="unique_7_Connect_42_ic_statement" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="section:1;17:36">
+            
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="lines:1;19:45"><b class="+ topic/ph hi-d/b " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="b:1;19:48">IC Statement:</b></lines>
+            <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_safety_precautions_canada_customers.dita" xtrc="lines:2;20:45">CAN ICES-3 (B)/NMB-3(B)</lines>
+            
+        </section>
+        
+    </conbody>
+    
+</concept></concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="concept:1;11:32" specializations="@props/deliveryTarget" oid="w_c_notes_on_use" id="unique_8">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="title:1;13:12">Notes on use</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="conbody:1;15:14">
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="section:1;17:18">
+            
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="ul:1;19:17">
+                
+                <li id="unique_8_Connect_42_list_item_1" class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:1;22:38">Be sure to read the connected device's user manual before use.</li>
+                <li id="unique_8_Connect_42_list_item_2" class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:2;23:38">Purchase a cable suitable for the device to be connected.</li>
+                <li id="unique_8_Connect_42_list_item_3" class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:3;24:38">Fully insert the plug of the connecting cable.</li>
+                <li id="unique_8_Connect_42_list_item_4" class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:4;25:38">Stop music playback when plugging and unplugging cables.</li>
+                <li id="unique_8_Connect_42_list_item_5" class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:5;26:38">
+                    Before using the product for the first time, it is necessary to install the
+                    "dedicated driver software" on your PC (only for Windows). Please download from our
+                    Audio-Technic website. Before connecting the product to your PC, be sure to install the
+                    "dedicated driver software". If you connect the product to your PC before installing
+                    the driver, the product may not work properly.     
+                </li>
+            </ul>
+            
+        </section>
+        
+    </conbody>
+    
+</concept><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="reference:1;11:45" specializations="@props/deliveryTarget" oid="_r_part_names_and_functions" id="unique_9">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="title:1;13:12">Part names and functions</title>
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="refbody:1;15:14">
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="section:1;17:18">
+            <image height="280" keyref="_i_part_names_and_functions" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="image:1;18:86" href="images/_i_part_names_and_functions.png" format="png"/>            
+        </section>
+        
+        <properties relcolwidth="1.0* 5.54* 12.43*" outputclass="part_names_and_functions_table" class="- topic/simpletable reference/properties " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="properties:1;21:98">
+            
+            <prophead class="- topic/sthead      reference/prophead " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="prophead:1;21:41">
+                <proptypehd class="- topic/stentry     reference/proptypehd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="proptypehd:1;22:29" dita-ot:x="1" dita-ot:y="1">No.</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvaluehd:1;23:30" dita-ot:x="2" dita-ot:y="1">Name</propvaluehd>
+                <propdeschd class="- topic/stentry     reference/propdeschd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdeschd:1;24:29" dita-ot:x="3" dita-ot:y="1">Description</propdeschd>
+            </prophead>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:1;25:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:1;26:27" dita-ot:x="1" dita-ot:y="2">1</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:1;29:56" dita-ot:x="2" dita-ot:y="2">Power indicator lamp</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:1;30:54" dita-ot:x="3" dita-ot:y="2">Lights white when the product's power button is turned on.</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:2;31:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:2;32:27" dita-ot:x="1" dita-ot:y="3">2</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:2;35:62" dita-ot:x="2" dita-ot:y="3">Power button</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:2;36:60" dita-ot:x="3" dita-ot:y="3">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:1;37:53">Push-type switch to turn power on/off.</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:2;38:53">Pressing it turns the power on, and pressing it again turns the power off.</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:3;37:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:3;38:27" dita-ot:x="1" dita-ot:y="4">3</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:3;44:62" dita-ot:x="2" dita-ot:y="4">Sampling frequency/DSD indicator lamp</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:3;45:60" dita-ot:x="3" dita-ot:y="4">Shows the type of DSD or the sampling
+                    frequency of the input signal while playing audio.</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:4;43:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:4;44:27" dita-ot:x="1" dita-ot:y="5">4</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:4;51:65" dita-ot:x="2" dita-ot:y="5">Input signal switching dial</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:4;52:63" dita-ot:x="3" dita-ot:y="5">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:3;53:53">Switches the input signal (USB terminal input, coaxial digital input (COAXIAL), and optical digital input (OPTICAL)).</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:4;54:53">Input from the USB terminal supports both USB Type-B and USB Type-C<sup class="+ topic/ph hi-d/sup " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="sup:1;54:125">TM</sup>, but when both are connected, the USB Type-C input is given priority.</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:5;49:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:5;50:27" dita-ot:x="1" dita-ot:y="6">5</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:5;60:51" dita-ot:x="2" dita-ot:y="6">LINE output terminals</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:5;61:49" dita-ot:x="3" dita-ot:y="6">
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:5;62:53">Output the input signal that is selected with the input signal switching dial.</lines>
+                    <lines outputclass="line_entry" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="lines:6;63:53">Connect to the LINE input terminals of the connected device by using an RCA audio cable (sold separately).</lines>
+                </propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:6;55:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:6;56:27" dita-ot:x="1" dita-ot:y="7">6</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:6;69:53" dita-ot:x="2" dita-ot:y="7">Optical digital input terminal</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:6;70:51" dita-ot:x="3" dita-ot:y="7">Connects to the optical digital output terminal of the audio source device
+                    by using an optical digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:7;61:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:7;62:27" dita-ot:x="1" dita-ot:y="8">7</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:7;76:53" dita-ot:x="2" dita-ot:y="8">Coaxial digital input terminal</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:7;77:51" dita-ot:x="3" dita-ot:y="8">Connects to the coaxial digital output terminal of the audio source device
+                    by using a coaxial digital cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:8;67:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:8;68:27" dita-ot:x="1" dita-ot:y="9">8</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:8;83:51" dita-ot:x="2" dita-ot:y="9">USB terminal (USB Type-B)</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:8;84:49" dita-ot:x="3" dita-ot:y="9">Connects to the USB terminal of the audio source device by using a USB
+                    Type-B cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:9;73:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:9;74:27" dita-ot:x="1" dita-ot:y="10">9</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:9;90:51" dita-ot:x="2" dita-ot:y="10">USB terminal (USB Type-C)</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:9;91:49" dita-ot:x="3" dita-ot:y="10">Connects to the USB terminal of the audio source device by using a USB
+                    Type-C cable (sold separately).</propdesc>
+            </property>
+            
+            <property class="- topic/strow       reference/property " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="property:10;79:23">
+                <proptype class="- topic/stentry     reference/proptype " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_part_names_and_functions.dita" xtrc="proptype:10;80:27" dita-ot:x="1" dita-ot:y="11">10</proptype>
+                <propvalue class="- topic/stentry     reference/propvalue " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propvalue:10;97:51" dita-ot:x="2" dita-ot:y="11">Power input jack</propvalue>
+                <propdesc class="- topic/stentry     reference/propdesc " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_part_names_and_functions.dita" xtrc="propdesc:10;98:49" dita-ot:x="3" dita-ot:y="11">Connects to the AC adapter provided.</propdesc>
+            </property>
+            
+        </properties>
+    
+    </refbody>
+    
+</reference><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="task:1;11:35" specializations="@props/deliveryTarget" oid="w_t_installing_product" id="unique_10">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="title:1;13:12">Installing the product</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="taskbody:1;15:15">
+        
+        <prereq class="- topic/section task/prereq " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="prereq:1;17:17">
+            
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="ul:1;19:17">
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="li:1;20:21">
+                    If a radio is placed near the product, the sound from the radio may be distorted.
+                    Whenever possible, keep radios away from the product.
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="li:2;24:21">
+                    Keep the product at least 1 m (3.3') away from the inverter-type fluorescent lights,
+                    LED lamps, and wireless devices, such as mobile phones or Wi-Fi devices.
+                    Using them nearby could cause noise in the product.
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product.dita" xtrc="li:3;29:21">
+                    Install the AC adapter away from the main unit and the RCA audio cables. Using them
+                    nearby could cause noise in the product.
+                </li>
+            </ul>
+            
+        </prereq>
+        
+    </taskbody>
+    
+<task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_horizontally.dita" xtrc="task:1;11:47" specializations="@props/deliveryTarget" oid="_t_installing_product_horizontally" id="unique_11">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="title:1;13:23">Installing the product horizontally</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_horizontally.dita" xtrc="taskbody:1;15:15">
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_horizontally.dita" xtrc="steps:1;17:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="step:1;19:37">
+                
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="cmd:1;21:22">
+                    Remove the protective seals from the two-sided tape on the
+                    feet, stick them evenly to the bottom of the main unit, and then
+                    install it.
+                </cmd>
+                
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="info:1;27:23">
+                    <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="ul:1;28:25">
+                        <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_horizontally.dita" xtrc="li:1;29:29">
+                            If you need to remove a foot after sticking it on, slowly pull it off
+                            from the main unit.
+                        </li>
+                    </ul>
+                </info>
+                
+            </step>
+        </steps>            
+        
+        <example class="- topic/example " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_horizontally.dita" xtrc="example:1;23:18">
+            <image keyref="_i_installing_product_horizontally" width="270" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_horizontally.dita" xtrc="image:1;25:45" href="images/_i_installing_product_horizontally.png" format="png"/>
+        </example>
+        
+    </taskbody>
+    
+</task><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_vertically.dita" xtrc="task:1;11:45" specializations="@props/deliveryTarget" oid="_t_installing_product_vertically" id="unique_12">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="title:1;13:23">Installing the product vertically</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_vertically.dita" xtrc="taskbody:1;15:15">
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_vertically.dita" xtrc="steps:1;17:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="step:1;19:46">
+                
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_installing_product_vertically.dita" xtrc="cmd:1;21:22">
+                    Attach the stands to the side of the main unit, and then install it.
+                </cmd>             
+                
+            </step>            
+        </steps>
+        
+        <example class="- topic/example " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_vertically.dita" xtrc="example:1;23:18">
+            <image keyref="_i_installing_product_vertically" height="300" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_installing_product_vertically.dita" xtrc="image:1;25:46" href="images/_i_installing_product_vertically.png" format="png"/>
+        </example>
+        
+    </taskbody>
+    
+</task></task><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product.dita" xtrc="concept:1;11:37" specializations="@props/deliveryTarget" oid="w_c_using_the_product" id="unique_13">
+    
+    <title id="unique_13_Connect_42_title" class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product.dita" xtrc="title:1;13:23">Using the product</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product.dita" xtrc="conbody:1;15:15"/>    
+    
+<concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="concept:1;11:63" specializations="@props/deliveryTarget" oid="w_c_using_the_product_before_making_connections" id="unique_14">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="title:1;13:12">Before making connections</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="conbody:1;15:14">
+        
+        <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="p:1;17:12">
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="ul:1;18:17">
+                
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:1;22:38">Be sure to read the connected device's user manual before use.</li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_using_the_product_before_making_connections.dita" xtrc="li:2;21:21">Be sure to turn off devices before connecting them.</li>
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:2;23:38">Purchase a cable suitable for the device to be connected.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:3;24:38">Fully insert the plug of the connecting cable.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:4;25:38">Stop music playback when plugging and unplugging cables.</li><li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_notes_on_use.dita" xtrc="li:5;26:38">
+                    Before using the product for the first time, it is necessary to install the
+                    "dedicated driver software" on your PC (only for Windows). Please download from our
+                    Audio-Technic website. Before connecting the product to your PC, be sure to install the
+                    "dedicated driver software". If you connect the product to your PC before installing
+                    the driver, the product may not work properly.     
+                </li>
+            </ul>
+        </p>
+        
+    </conbody>
+    
+</concept><task ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="task:1;11:52" specializations="@props/deliveryTarget" oid="_t_using_the_product_making_connections" id="unique_15">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="title:1;13:23">Making connections</title>    
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="taskbody:1;15:15">
+        
+        <context outputclass="add_top_margin" class="- topic/section task/context " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="context:1;17:31">
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="p:1;18:16">Refer to the connection diagram below to connect the devices you want to use.</p>       
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="steps:1;19:16">
+            
+            <step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="step:1;22:35">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="cmd:1;23:22">
+                    Connect the power cord to the AC adapter.
+                </cmd>
+            </step><step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="step:2;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="cmd:2;29:22">
+                    Connect the AC adapter to the power input jack, and then insert the
+                    power cord into the outlet.
+                </cmd>
+            </step><step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="step:3;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="cmd:3;36:22">
+                    Turn on the connected devices.
+                </cmd>
+            </step><step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="step:4;41:33">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_t_using_the_product_making_connections.dita" xtrc="cmd:4;42:22">
+                    Turn on the product's power button.
+                </cmd>
+            </step>
+            
+            <step class="- topic/li task/step " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="step:2;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="cmd:2;27:22">Use the input signal switching dial to select the device from which you want input.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="info:1;28:23">
+                    <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="ul:1;29:25">
+                        <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="li:1;30:29">The signal that is input is shown by the sampling frequency/DSD indicator lamp.</li>
+                    </ul>
+                </info>                
+            </step>
+            
+        </steps>
+        
+        <example class="- topic/example " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="example:1;37:18">
+            
+            <image keyref="_i_using_the_product_making_connections" width="600" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="image:1;40:45" href="images/_i_using_the_product_making_connections.png" format="png"/>
+            <p class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="p:1;41:16">
+                <lines outputclass="fn_class" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="lines:1;42:47">*1 For USB connection, USB Type-C connection is given priority.</lines>
+                <lines outputclass="fn_class" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_t_using_the_product_making_connections.dita" xtrc="lines:2;43:47">*2 A conversion adapter may be required depending on your smartphone/tablet, etc.</lines>
+            </p>
+            
+        </example>
+        
+        
+    </taskbody>
+    
+</task></concept><concept ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="concept:1;11:28" specializations="@props/deliveryTarget" oid="w_c_cleaning" id="unique_16">
+    
+    <title id="unique_16_Connect_42_title" class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="title:1;13:23">Cleaning</title>
+    
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="conbody:1;15:14">
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="section:1;16:18">
+            
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="ul:1;18:17">
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="li:1;19:21">
+                    If the product becomes dirty or dusty, turn off the power button, unplug the AC adapter, and then
+                    wipe the product with a soft, dry cloth.
+                </li>
+                
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="li:2;24:21">Do not use benzine or paint thinners.</li>
+                
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_c_cleaning.dita" xtrc="li:3;26:21">
+                    To store the product for an extended period, turn the power button off, unplug the power cord from
+                    the outlet, wrap the equipment in plastic and keep it away from moisture.
+                </li>               
+            </ul>
+            
+        </section>        
+        
+    </conbody>
+    
+</concept><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_dimensions.dita" xtrc="reference:1;11:32" specializations="@props/deliveryTarget" oid="w_r_dimensions" id="unique_17">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_dimensions.dita" xtrc="title:1;13:12">Dimensions</title>
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_dimensions.dita" xtrc="refbody:1;15:15"/>
+    
+<reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_feet_are_attached.dita" xtrc="reference:1;11:54" specializations="@props/deliveryTarget" oid="_r_dimensions_when_feet_are_attached" id="unique_18">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_dimensions_when_feet_are_attached.dita" xtrc="title:1;13:23">When feet are attached</title>    
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_feet_are_attached.dita" xtrc="refbody:1;15:14">
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_feet_are_attached.dita" xtrc="section:1;16:18">
+            <image keyref="_i_dimension_when_feet_are_attached" width="580" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_feet_are_attached.dita" xtrc="image:1;18:45" href="images/_i_dimension_when_feet_are_attached.png" format="png"/>
+        </section>
+    </refbody>
+    
+</reference><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_stands_are_attached.dita" xtrc="reference:1;11:56" specializations="@props/deliveryTarget" oid="_r_dimensions_when_stands_are_attached" id="unique_19">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_dimensions_when_stands_are_attached.dita" xtrc="title:1;13:23">When stands are attached</title>    
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_stands_are_attached.dita" xtrc="refbody:1;15:14">
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_stands_are_attached.dita" xtrc="section:1;16:18">
+            <image keyref="_i_dimension_when_stands_are_attached" width="580" align="center" placement="inline" class="- topic/image " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_dimensions_when_stands_are_attached.dita" xtrc="image:1;18:45" href="images/_i_dimension_when_stands_are_attached.png" format="png"/>
+        </section>
+    </refbody>
+    
+</reference></reference><reference ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="reference:1;11:35" specializations="@props/deliveryTarget" oid="_r_specifications" id="unique_20">
+    
+    <title class="- topic/title " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="title:1;13:23">Specifications</title>
+    
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="refbody:1;15:14">
+        
+        <table frame="topbot" class="- topic/table " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="table:1;17:31">
+            
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="tgroup:1;19:30">
+                
+                <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="colspec:1;21:65"/>
+                <colspec colname="col2" colnum="2" colwidth="3.31*" class="- topic/colspec " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="colspec:2;22:68"/>
+                
+                <tbody valign="top" class="- topic/tbody " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="tbody:1;24:37">
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:1;26:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="entry:1;27:57" colname="col1" dita-ot:x="1" dita-ot:y="1">System requirements</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:2;28:32" colname="col2" dita-ot:x="2" dita-ot:y="1">
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:1;29:82">Computer equipped with a USB 2.0 compatible USB port</lines>
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:2;30:94">CPU: Intel Core i3 CPU 2.2 GHz or higher, or AMD CPU equivalent to Intel</lines>
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:3;31:90">RAM: 32 bit OS, 2 GB or more, 64 bit OS 4 GB or more</lines>
+                        </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:2;35:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="entry:3;36:50" colname="col1" dita-ot:x="1" dita-ot:y="2">Supported OS</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:4;37:32" colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:4;38:84">Windows 8.1, Windows 10, and Mac OS X or later</lines> 
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:5;39:86">(Please check the product's web page for the latest information.)</lines>
+                        </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:3;43:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="entry:5;44:50" colname="col1" dita-ot:x="1" dita-ot:y="3">Power supply</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="entry:6;45:67" colname="col2" dita-ot:x="2" dita-ot:y="3"> 100 - 240 VAC, 50/60 Hz, 15 VDC/2.4 A (AC adapter provided) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:4;48:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="entry:7;49:53" colname="col1" dita-ot:x="1" dita-ot:y="4">Input terminals</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:8;50:32" colname="col2" dita-ot:x="2" dita-ot:y="4">
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:6;51:103">USB Type-B (44.1 kHz to 768 kHz, 16 to 32 bit DSD64, DSD128, DSD256, DSD512)</lines>
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:7;52:103">USB Type-C (44.1 kHz to 768 kHz, 16 to 32 bit DSD64, DSD128, DSD256, DSD512)</lines>
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:8;53:90">Coaxial digital (32 kHz to 192 kHz, 16 to 24 bit)</lines>
+                            <lines xml:space="preserve" class="- topic/lines " outputclass="line_entry" xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_r_specifications.dita" xtrc="lines:9;54:89">Optical digital (32 kHz to 192 kHz, 16 to 24 bit)</lines>
+                        </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:5;58:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:9;59:32" colname="col1" dita-ot:x="1" dita-ot:y="5">Output terminals</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:10;60:32" colname="col2" dita-ot:x="2" dita-ot:y="5"> Analog output (pin jack) × 2 </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:6;63:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:11;64:32" colname="col1" dita-ot:x="1" dita-ot:y="6">Frequency response</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:12;65:32" colname="col2" dita-ot:x="2" dita-ot:y="6"> 5 Hz to 90 kHz (0, -3 dB) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:7;68:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:13;69:32" colname="col1" dita-ot:x="1" dita-ot:y="7">Total harmonic distortion</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:14;70:32" colname="col2" dita-ot:x="2" dita-ot:y="7"> 0.005% or less (20 Hz to 20 kHz) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:8;73:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:15;74:32" colname="col1" dita-ot:x="1" dita-ot:y="8">Signal-to-noise ratio</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:16;75:32" colname="col2" dita-ot:x="2" dita-ot:y="8"> 105 dB (A-weighted, 1 Vrms output) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:9;78:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:17;79:32" colname="col1" dita-ot:x="1" dita-ot:y="9">Separation between channels</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:18;80:32" colname="col2" dita-ot:x="2" dita-ot:y="9"> 105 dB (20 Hz to 20 kHz) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:10;83:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:19;84:32" colname="col1" dita-ot:x="1" dita-ot:y="10">Power consumption</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:20;85:32" colname="col2" dita-ot:x="2" dita-ot:y="10"> Maximum 3 W </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:11;88:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:21;89:32" colname="col1" dita-ot:x="1" dita-ot:y="11">Dimensions</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:22;90:32" colname="col2" dita-ot:x="2" dita-ot:y="11"> 210 mm (8.27") × 135 mm (5.31") × 44 mm (1.73") (W × D × H)
+                            (excluding protrusions) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:12;94:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:23;95:32" colname="col1" dita-ot:x="1" dita-ot:y="12">Weight</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:24;96:32" colname="col2" dita-ot:x="2" dita-ot:y="12"> About 1.0 kg (35.3 oz) </entry>
+                    </row>
+                    
+                    <row rowsep="1" class="- topic/row " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="row:13;99:37">
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:25;100:32" colname="col1" dita-ot:x="1" dita-ot:y="13">Included accessories</entry>
+                        <entry class="- topic/entry " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="entry:26;101:32" colname="col2" dita-ot:x="2" dita-ot:y="13"> AC adapter (approx. 1.5 m (4.9')), Power cord, Foot × 6, Stand × 2
+                        </entry>
+                    </row>
+                    
+                </tbody>
+                
+            </tgroup>
+            
+        </table>
+        
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="section:1;111:18"/>
+        
+        <section id="unique_20_Connect_42_notice" class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="section:2;113:30">            
+            
+            <p outputclass="line_entry" class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_modification_without_notice.dita" xtrc="p:1;18:32">For product improvement, the product is subject to modification without notice.</p>
+            
+            <ul class="- topic/ul " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="ul:1;118:17">
+                <li class="- topic/li " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="li:1;119:21">                    
+                    <p outputclass="line_entry" class="- topic/p " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_usb_trademark_info.dita" xtrc="p:1;18:37">USB Type-C<sup class="+ topic/ph hi-d/sup " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_usb_trademark_info.dita" xtrc="sup:1;18:52">TM</sup> is a trademark of USB Implementers Forum.</p>
+                </li>
+            </ul>
+            
+        </section>        
+               
+        <section class="- topic/section " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="section:3;127:18">
+            
+            <sectiondiv outputclass="docu_ver" class="- topic/sectiondiv " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="sectiondiv:1;129:48">
+                <ph keyref="docu_ver" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="ph:1;130:40">rev.1.0.0_ycwong</ph>
+            </sectiondiv>
+            
+            <sectiondiv class="- topic/sectiondiv " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="sectiondiv:2;133:25">
+                <lines outputclass="company_info_japan_pt1" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:1;20:67"><ph keyref="full_company_name_japan" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:1;20:105">Audio-Technica Corporation</ph></lines>
+            </sectiondiv>
+            
+            <sectiondiv outputclass="company_info_japan_pt2_position" class="- topic/sectiondiv " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/_r_specifications.dita" xtrc="sectiondiv:3;138:71">
+                
+                <lines outputclass="company_info_japan_pt2_font" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:2;21:67"><ph keyref="company_address_japan" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:2;21:103">2-46-1 Nishi-naruse, Machida, Tokyo 194-8666, Japan</ph></lines>
+                
+                <lines outputclass="company_info_japan_pt2_font" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:3;22:67">©<ph keyref="copyright_year" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:3;22:97">2020</ph> <ph keyref="full_company_name_japan" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:4;22:136">Audio-Technica Corporation</ph></lines>
+                
+                <lines outputclass="company_info_japan_pt2_font" xml:space="preserve" class="- topic/lines " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="lines:4;23:67">Global Support Contact: <ph keyref="global_support_website" class="- topic/ph " xtrf="file:/C:/wong/tech_writing/sample_output/audio_technica/at_dac100/w_topic_company_info.dita" xtrc="ph:5;23:128">www.at-globalsupport.com</ph></lines>
+                
+            </sectiondiv>
+            
+        </section> 
+        
+    </refbody>
+    
+</reference></bookmap>

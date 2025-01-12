@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Safety precautions related to customers in the USA.                
+    =========================================================================================-->
+
+<concept id="w_c_safety_precautions_usa_customers">
+    
+    <title>For customers in the USA</title>
+    
+    <conbody>        
+        
+        <section>
+            <title>FCC Notice</title>
+        </section>
+        
+        <section id="warning_section">
+            <p><note type="warning">
+                This device complies with Part 15 of the FCC Rules. Operation is subject to the
+                    following two conditions: (1) This device may not cause harmful interference, and
+                    (2) this device must not accept any interference received, including interference
+                    that may cause undesired operation.
+            </note></p>
+        </section>
+                
+        <section id="caution_section">
+            <p><note type="caution">
+                You are cautioned that any changes or modifications not expressly approved in
+                this manual could void your authority to operate this equipment.
+                
+                <p><note>
+                    This equipment has been tested and found to comply with the limits for a Class B digital
+                    device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable
+                    protection against harmful interference in a residential installation. This equipment generates, uses
+                    and can radiate radio frequency energy and, if not installed and used in accordance with the 
+                    instructions, may cause harmful interference to radio communications. However, there is no guarantee
+                    that interference will not occur in a particular installation. If this equipment does cause harmful
+                    interference to radio or television reception, which can be determined by turning equipment off and
+                    on, the user is encouraged to try to correct the interference by one of more of the following measures:
+                </note></p>
+                
+                <ul>
+                    <li>Reorient or relocate the receiving antenna.</li>
+                    <li>Increase the separation between the equipment and receiver.</li>
+                    <li>Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.</li>
+                    <li>Consult the dealer or experienced radio/TV technician for help.</li>
+                </ul>
+            </note></p>
+        </section>
+        
+        <!-- Include the contact information of the US branch here. -->
+        <section id="contact_section" outputclass="company_info_usa">
+            <lines outputclass="line_entry"><b>Contact:</b></lines>
+            <sectiondiv conkeyref="w_topic_company_info/usa"/>            
+        </section>
+        
+    </conbody>
+    
+</concept>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Part names and functions for the product.
+    =========================================================================================-->
+
+<reference id="_r_part_names_and_functions">
+    
+    <title>Part names and functions</title>
+    
+    <refbody>
+        
+        <section>
+            <image height="280" keyref="_i_part_names_and_functions" align="center"/>            
+        </section>
+        
+        <properties relcolwidth="1.0* 5.54* 12.43*" outputclass="part_names_and_functions_table">
+            
+            <prophead conkeyref="w_r_part_names_and_functions/table_header"/>
+            
+            <property>
+                <proptype>1</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/power_lamp_white_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/power_lamp_white_desc"/>
+            </property>
+            
+            <property>
+                <proptype>2</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/power_button_push_type_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/power_button_push_type_desc"/>
+            </property>
+            
+            <property>
+                <proptype>3</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/sampling_freq_dsd_lamp_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/sampling_freq_dsd_lamp_desc"/>
+            </property>
+            
+            <property>
+                <proptype>4</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/input_switch_usb_coax_opt_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/input_switch_usb_coax_opt_desc"/>
+            </property>
+            
+            <property>
+                <proptype>5</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/line_output_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/line_output_desc"/>
+            </property>
+            
+            <property>
+                <proptype>6</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/optical_input_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/optical_input_desc"/>
+            </property>
+            
+            <property>
+                <proptype>7</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/coaxial_input_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/coaxial_input_desc"/>
+            </property>
+            
+            <property>
+                <proptype>8</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/usb_b_input_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/usb_b_input_desc"/>
+            </property>
+            
+            <property>
+                <proptype>9</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/usb_c_input_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/usb_c_input_desc"/>
+            </property>
+            
+            <property>
+                <proptype>10</proptype>
+                <propvalue conkeyref="w_r_part_names_and_functions/power_input_value"/>
+                <propdesc conkeyref="w_r_part_names_and_functions/power_input_desc"/>
+            </property>
+            
+        </properties>
+    
+    </refbody>
+    
+</reference>

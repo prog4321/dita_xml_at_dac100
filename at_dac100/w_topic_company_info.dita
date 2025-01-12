@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Company information.                
+    =========================================================================================-->
+
+<topic id="w_topic_company_info">
+    
+    <title>Company Information</title>
+    
+    <body>        
+        
+        <section>
+            
+            <sectiondiv id="japan">
+                <lines id="japan_line_1" outputclass="line_entry"><ph keyref="full_company_name_japan"/></lines>
+                <lines id="japan_line_2" outputclass="line_entry"><ph keyref="company_address_japan"/></lines>
+                <lines id="japan_line_3" outputclass="line_entry">©<ph keyref="copyright_year"/> <ph keyref="full_company_name_japan"/></lines>
+                <lines id="japan_line_4" outputclass="line_entry">Global Support Contact: <ph keyref="global_support_website"/></lines>
+            </sectiondiv>
+            
+            <sectiondiv id="usa">
+                <lines id="usa_line_1" outputclass="line_entry">Responsible Company: <ph keyref="full_company_name_usa"/></lines>
+                <lines id="usa_line_2" outputclass="line_entry">Address: <ph keyref="company_address_usa"/></lines>
+                <lines id="usa_line_3" outputclass="line_entry">Tel: <ph keyref="company_tel_usa"/></lines>
+            </sectiondiv> 
+            
+        </section>
+                
+    </body>
+    
+</topic>

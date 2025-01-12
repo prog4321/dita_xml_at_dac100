@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+
+<!--=========================================================================================
+    Writer:     YC Wong
+    Date:       Jan-Feb 2024
+    Rev No:     1.0.0
+    Notes:      Generic information on making connections to use the product.                
+    =========================================================================================-->
+
+<task id="w_t_using_the_product_making_connections">    
+        
+    <title id="title">Making connections</title>
+        
+    <taskbody>
+                
+        <context id="context">
+            Refer to the connection diagram below to connect the devices you want to use.
+        </context>
+                    
+        <steps>
+            <step id="step_start">
+                <cmd>
+                    Connect the power cord to the AC adapter.
+                </cmd>
+            </step>
+                            
+            <step>
+                <cmd>
+                    Connect the AC adapter to the power input jack, and then insert the
+                    power cord into the outlet.
+                </cmd>
+            </step>
+                            
+            <step>
+                <cmd>
+                    Turn on the connected devices.
+                </cmd>
+            </step>
+                            
+            <step id="step_end">
+                <cmd>
+                    Turn on the product's power button.
+                </cmd>
+            </step>
+                        
+        </steps>
+                
+    </taskbody>       
+    
+</task>
